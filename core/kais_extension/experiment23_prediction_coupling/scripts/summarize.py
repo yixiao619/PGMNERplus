@@ -1,0 +1,31 @@
+#!/usr/bin/env python3
+from __future__ import annotations
+import argparse,csv,json,statistics
+from pathlib import Path
+ROOT=Path("/home/jyx/yixiao/MINER-My");EXP=ROOT/"kais_extension/experiment23_prediction_coupling"
+def write(path,rows,fields):
+ path.parent.mkdir(parents=True,exist_ok=True)
+ with path.open("w",newline="") as f:w=csv.DictWriter(f,fieldnames=fields);w.writeheader();w.writerows(rows)
+def collect(run_state):
+ rows=[]
+ for sub in run_state.get("submissions",[]):
+  for sp in sorted((Path(sub)/"runs").glob("*/status.json")):
+   x=json.loads(sp.read_text());rows.append(x)
+ return rows
+def main():
+ p=argparse.ArgumentParser();p.add_argument("--state",default=str(EXP/"run_state.json"));a=p.parse_args();st=json.loads(Path(a.state).read_text());rows=collect(st);base={x.get("seed"):x for x in rows if x.get("route")=="baseline" and x.get("status")=="complete"};summary=[]
+ for x in rows:
+  b=base.get(x.get("seed"));summary.append({"id":x.get("id"),"stage":x.get("stage",""),"seed":x.get("seed"),"route":x.get("route"),"status":x.get("status"),"best_dev_precision":x.get("best_dev_precision",""),"best_dev_recall":x.get("best_dev_recall",""),"best_dev_f1":x.get("best_dev_f1",""),"matched_baseline_f1":b.get("best_dev_f1","") if b else "","delta":float(x["best_dev_f1"])-float(b["best_dev_f1"]) if b and x.get("best_dev_f1") is not None else "","best_epoch":x.get("best_epoch",""),"added_parameters":x.get("added_parameters",""),"training_seconds":x.get("training_seconds",""),"peak_gpu_memory_mb":x.get("peak_gpu_memory_mb",""),"prediction_changes":x.get("prediction_changes",""),"correct_to_wrong":x.get("correct_to_wrong",""),"wrong_to_correct":x.get("wrong_to_correct",""),"residual_ratio":x.get("residual_ratio",""),"disabled_dev_f1":x.get("disabled_dev_f1",""),"enabled_vs_disabled_prediction_changes":x.get("enabled_vs_disabled_prediction_changes","")})
+ sf=["id","stage","seed","route","status","best_dev_precision","best_dev_recall","best_dev_f1","matched_baseline_f1","delta","best_epoch","added_parameters","training_seconds","peak_gpu_memory_mb","prediction_changes","correct_to_wrong","wrong_to_correct","residual_ratio","disabled_dev_f1","enabled_vs_disabled_prediction_changes"];write(EXP/"results/route_summary.csv",summary,sf)
+ pc=[{k:r.get(k,"") for k in ["id","seed","route","prediction_changes","correct_to_wrong","wrong_to_correct","enabled_vs_disabled_prediction_changes"]} for r in summary];write(EXP/"results/prediction_change_analysis.csv",pc,list(pc[0]) if pc else ["id"])
+ ga=[{"id":x.get("id"),"seed":x.get("seed"),"route":x.get("route"),"task_gradient_norm":x.get("task_gradient_norm",""),"residual_ratio":x.get("residual_ratio",""),"gate_mean":x.get("gate_mean",""),"gate_std":x.get("gate_std",""),"span_gate_variance":x.get("span_gate_variance",""),"row_mass_mean":x.get("row_mass_mean",""),"transport_concentration":x.get("concentration_mean","")} for x in rows];write(EXP/"results/gradient_and_residual_audit.csv",ga,list(ga[0]) if ga else ["id"])
+ try:
+  import matplotlib;matplotlib.use("Agg");import matplotlib.pyplot as plt
+  s42=[r for r in summary if r["seed"]==42 and r["status"]=="complete"];fig,ax=plt.subplots(figsize=(6.4,3.5));ax.bar([r["route"] for r in s42],[float(r["best_dev_f1"]) for r in s42],color=["#707070","#2673b8","#d17b2f"][:len(s42)]);ax.set_ylabel("DEV micro-F1");ax.set_ylim(min(.89,min(float(r["best_dev_f1"]) for r in s42)-.002),max(float(r["best_dev_f1"]) for r in s42)+.002);ax.grid(axis="y",alpha=.2);fig.tight_layout();fig.savefig(EXP/"figures/dev_f1_comparison.pdf");plt.close(fig)
+ except Exception:pass
+ selected=st.get("selected_route");complete=sum(x.get("status")=="complete" for x in rows);failed=sum(x.get("status")=="failed" for x in rows)
+ table="\n".join(f"| {r['id']} | {r['best_dev_f1']} | {r['delta']} | {r['prediction_changes']} | {r['residual_ratio']} |" for r in summary)
+ report=f"""# Experiment 23: Prediction-Coupled PP-IB and GOT-A Optimization\n\n## Protocol\n\nAll runs initialize from the historical paper-full checkpoint and use Twitter-2017 TRAIN/DEV only, at most five epochs, patience two, and identical optimizer/data-order rules. TEST is not evaluated. Route C was skipped because it duplicates Experiments 19-20.\n\n## Results\n\n| Run | Best DEV F1 | Paired delta | Changed entity candidates | Residual |\n|---|---:|---:|---:|---:|\n{table}\n\nCompleted: {complete}; failed: {failed}. Selected route for conditional validation: **{selected or 'NONE'}**.\n\n## Interpretation\n\nA route is retained only when it improves the matched DEV baseline, changes predictions, has nonzero task gradient, and has a non-negligible controlled residual. A learned routing benefit additionally requires improvement over Route A, its fixed-routing control. No TEST result is used.\n""";(EXP/"EXPERIMENT_23_REPORT.md").write_text(report)
+ draft=f"""# KAIS Method Extension Draft\n\n## Motivation\nThe original GOT-A aligned visual representation reaches the span classifier, but partial transport row mass attenuates its magnitude. We test prediction-coupled variants that normalize transport-weighted evidence before controlled residual fusion.\n\n## Method\nFor entity candidate $i$, $e_i=(\\sum_j T_{{ij}}v_j)/(\\sum_j T_{{ij}}+\\epsilon)$. OT-Coupled Fusion adds a small projected residual to the original PGMNER representation. Entity-Conditioned Visual Routing further multiplies this residual by a span-specific sigmoid gate computed from the original span representation, normalized visual evidence, relative matched mass, and transport concentration. The original classifier path remains intact.\n\n## Protocol and observations\nAll screening uses DEV-only selection from the same historical checkpoint. The factual results are in `results/route_summary.csv`. Route C was not rerun because prior experiments already tested the corresponding task-coupled IB-latent residual.\n\n## Status\nSelected candidate: **{selected or 'none'}**. This short single-seed screen is not a final performance claim; multi-seed results are reported only if the predetermined qualification rule triggered.\n""";(EXP/"KAIS_METHOD_EXTENSION_DRAFT.md").write_text(draft)
+ print(json.dumps({"complete":complete,"failed":failed,"selected_route":selected},indent=2))
+if __name__=="__main__":main()

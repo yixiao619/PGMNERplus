@@ -1,0 +1,12 @@
+{
+  "baseline_dev_f1": 0.89462,
+  "stage1": {"seed": 42, "max_epochs": 5, "patience": 2},
+  "stage2": {"seeds": [123, 456], "qualification_delta": 0.001},
+  "optimizer": {"lr": 0.00001, "weight_decay": 0.0001, "warmup_ratio": 0.1},
+  "jobs": [
+    {"id": "E23_BASELINE_S42", "route": "baseline", "seed": 42},
+    {"id": "E23_A_OT_FUSION_S42", "route": "ot_fusion", "seed": 42},
+    {"id": "E23_B_ENTITY_ROUTING_S42", "route": "entity_routing", "seed": 42}
+  ],
+  "skipped": [{"route": "task_ib", "reason": "Substantively duplicates the task-coupled latent residual tested in Experiments 19-20."}]
+}

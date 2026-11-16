@@ -1,0 +1,27 @@
+{
+  "baseline_dev_f1": 0.89462,
+  "seed": 42,
+  "max_epochs": 5,
+  "patience": 2,
+  "gpu": {
+    "physical_index": 2,
+    "uuid": "GPU-2c45c36d-c789-4deb-7ac4-8712f14b82b6",
+    "pci_bus_id": "00000000:B8:00.0",
+    "minimum_free_mib": 100000,
+    "maximum_utilization_percent": 10,
+    "consecutive_checks": 2,
+    "between_checks_seconds": 60,
+    "busy_poll_seconds": 600
+  },
+  "limits": {"gpu_training_hours": 8, "wall_clock_hours": 11},
+  "experiments": [
+    {"id":"A0","kind":"sample","gate_mode":"learned","alpha":0.1,"unfreeze_head":false,"enabled":true},
+    {"id":"A1","kind":"sample","gate_mode":"learned","alpha":0.5,"unfreeze_head":false,"enabled":true},
+    {"id":"A2","kind":"sample","gate_mode":"learned","alpha":1.0,"unfreeze_head":false,"enabled":true},
+    {"id":"A3","kind":"sample","gate_mode":"learned","alpha":0.5,"unfreeze_head":true,"enabled":true},
+    {"id":"A4","kind":"sample","gate_mode":"learned","alpha":1.0,"unfreeze_head":true,"enabled":true},
+    {"id":"B1","kind":"entity","gate_mode":"learned","alpha":0.5,"unfreeze_head":false,"enabled":true},
+    {"id":"B2","kind":"entity","gate_mode":"learned","alpha":0.5,"unfreeze_head":true,"enabled":true}
+  ],
+  "matched_control_policy": "Run fixed_0.5 control only when learned best DEV F1 exceeds baseline, or DEV predictions change with no DEV F1 drop."
+}

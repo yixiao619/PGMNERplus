@@ -1,0 +1,14 @@
+# GOT 消融：A_t / A_v 均为单位阵（几乎无图结构）
+# 训练时需加：  --got_struct_mode identity
+
+use_semantic_ot: false
+use_got: true
+got_struct_mode: "identity"
+ot_alpha: 0.05
+ot_eps: 0.1
+ot_sinkhorn_iter: 10
+ot_lambda_align: 1.0
+got_lambda_sem: 0.5
+
+# python main-mner-robert.py ... --use_got --got_struct_mode identity \
+#   --output_dir checkpoints/twitter2017-got-identity

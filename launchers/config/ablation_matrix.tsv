@@ -1,0 +1,12 @@
+# gpu-independent keys; extra_args 见 MINER-My/scripts/run_ablation.sh
+key	extra_args
+gw	--got_mode gw
+noppib	REMOVE_PPIB
+nogota	REMOVE_GOT
+nonumstab	--beta_polar_warmup_epochs 0 --pp_ib_gate_init_std 0 --pp_ib_logvar_clamp 0
+nobalpolar	--pp_ib_lambda_balance 0
+fullot	--got_mode node_sinkhorn
+noema	REMOVE_EMA
+mass07	--partial_mass_init 0.7
+beta0001	--beta_polar 0.001
+beta005	--beta_polar 0.005

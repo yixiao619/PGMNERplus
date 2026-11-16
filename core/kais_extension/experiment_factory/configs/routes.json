@@ -1,0 +1,29 @@
+{
+  "schema_version": 2,
+  "baseline_dev_f1": 0.89462,
+  "seed": 42,
+  "dataset": "twitter2017",
+  "checkpoint": "/data/jyx/MINER-My/outputs/pp_ib_partial_ot_grid_dc10_m05_seed42/best_model.pth",
+  "stage1": {"max_epochs": 4, "patience": 2, "timeout_seconds": 10800},
+  "stage2": {"max_candidates": 3, "max_epochs": 5, "patience": 2},
+  "stage3": {"enable_full_training": false, "max_candidates": 2, "max_epochs": 40},
+  "optimizer": {"new_lr": 0.0001, "module_lr": 0.00001, "head_lr": 0.000005, "backbone_lr": 0.000001, "weight_decay": 0.0001, "warmup_ratio": 0.1},
+  "jobs": [
+    {"id":"FULL_STAGE1","route":"BASELINE","variant":"original","stage":1,"control_for":[],"expected_peak_mib":5200,"enabled":true},
+    {"id":"P1A_KL_ORIGINAL","route":"P1","variant":"kl_original","stage":1,"ib_kl_weight":0.001,"expected_peak_mib":5200,"enabled":true},
+    {"id":"P1B_KL_HALF","route":"P1","variant":"kl_half","stage":1,"ib_kl_weight":0.0005,"expected_peak_mib":5200,"enabled":true},
+    {"id":"P1C_KL_WARMUP","route":"P1","variant":"kl_warmup","stage":1,"ib_kl_weight":0.001,"kl_warmup_epochs":2,"expected_peak_mib":5200,"enabled":true},
+    {"id":"P2_LEARNED","route":"P2","variant":"prediction_coupled_learned","stage":1,"gate_mode":"learned","alpha":0.5,"unfreeze_head":true,"expected_peak_mib":4200,"enabled":false,"reuse_artifact":"kais_extension/experiment20_overnight_ppib/results/runs/B2/status.json","skip_reason":"Exact learned/fixed protocol already completed in Exp20; rerun would duplicate a negative attribution result."},
+    {"id":"P2_FIXED","route":"P2","variant":"prediction_coupled_fixed","stage":2,"gate_mode":"fixed_0.5","alpha":0.5,"unfreeze_head":true,"control_for":["P2_LEARNED"],"expected_peak_mib":4200,"enabled":false,"reuse_artifact":"kais_extension/experiment20_overnight_ppib/results/runs/B2_fixed/status.json","skip_reason":"Exact matched control already completed in Exp20."},
+    {"id":"P3_STABLE","route":"P3","variant":"stable_selective","stage":1,"gate_mode":"stable","gate_temperature":2.0,"gate_variance_target":0.01,"gate_reg_weight":0.001,"alpha":0.5,"unfreeze_head":true,"expected_peak_mib":4300,"enabled":true},
+    {"id":"P3_FIXED","route":"P3","variant":"stable_fixed_control","stage":2,"gate_mode":"fixed_0.5","alpha":0.5,"unfreeze_head":true,"control_for":["P3_STABLE"],"expected_peak_mib":4200,"enabled":true},
+    {"id":"G1_PARTIAL","route":"G1","variant":"partial_ot","stage":1,"ot_backend":"partial","expected_peak_mib":5200,"enabled":true},
+    {"id":"G1_FULL","route":"G1","variant":"full_ot","stage":1,"ot_backend":"full","expected_peak_mib":5200,"enabled":true},
+    {"id":"G2_ADAPTIVE","route":"G2","variant":"adaptive_mass","stage":1,"mass_min":0.3,"mass_max":0.9,"expected_peak_mib":4300,"enabled":true},
+    {"id":"G2_FIXED","route":"G2","variant":"fixed_mass_control","stage":2,"fixed_mass":0.594940338282,"control_for":["G2_ADAPTIVE"],"expected_peak_mib":4200,"enabled":true},
+    {"id":"G3_RELIABILITY","route":"G3","variant":"reliability_weighted_cost","stage":1,"reliability_strength":1.0,"expected_peak_mib":4400,"enabled":true},
+    {"id":"G3_UNWEIGHTED","route":"G3","variant":"unweighted_control","stage":2,"reliability_strength":0.0,"control_for":["G3_RELIABILITY"],"expected_peak_mib":4200,"enabled":true},
+    {"id":"G4_CONSTANT","route":"G4","variant":"constant_ot_weight","stage":1,"ot_alpha":0.05,"expected_peak_mib":5200,"enabled":true},
+    {"id":"G4_LOSS_WARMUP","route":"G4","variant":"ot_loss_warmup","stage":1,"ot_alpha":0.05,"ot_loss_warmup_epochs":2,"expected_peak_mib":5200,"enabled":true}
+  ]
+}

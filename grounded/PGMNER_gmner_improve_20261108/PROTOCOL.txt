@@ -1,0 +1,10 @@
+Goal: Reproduce same-protocol GMNER baselines, decompose errors, improve joint F1 without modifying PPIB/GOTA or manuscript.
+Fixed inputs: Exp14 PGMNER predicted entities and pretrained Qwen2.5-VL 7B + existing GMNER adapter; original Q2 caches remain immutable.
+New inference intervention: append the original post as entity-disambiguation context; retain the original box coordinate convention, parser, generation settings, and image processor.
+Calibration: confidence filters 0/.9/.95/.98/.99/.995; route direct/None/head(.2,.5,.8,.95)/entity confidence(.98,.995). Global or per-type policies; 3 deterministic coordinate passes for per-type fitting.
+Selection: SHA256(normalized text) modulo10 <7 is fit partition; remaining DEV posts select family/source by official GMNER micro-F1. Baseline included and wins ties. Selected family refit on full DEV; save locked_policy.json BEFORE new TEST inference/scoring. A cached-only pilot is descriptive and cannot change this search space.
+TEST: Fixed historical 835 Twitter2015 posts excluding normalized text overlap with GMNER train/dev. Previously examined TEST is exploratory, not independent confirmation. No automatic follow-up based on TEST results. Only chosen source/policy and unchanged baseline enter final comparison.
+Ground truth: official rescaled multi-box parser; never sidecar box labels. Uniform canonical serialization for all new candidates. Legacy raw/canonical scores separately reproduced for continuity.
+Error decomposition: official maximum matching; missed entities, spurious predictions, presence/format gap, localization gap, correct joint tuples; by entity type. Oracle-style gap decomposition is diagnostic only.
+F1 gain from this run is calibration/grounding-interface improvement, not evidence of stronger PPIB/GOTA. Report negative or null outcomes alongside positive ones. No promise of crossing 50.
+Background schedule: CPU reproduction/errors -> CPU cached pilot -> two GPU DEV shards -> DEV lock -> context TEST shards only if selected -> final report and paired post bootstrap. Stop on failure. Per-entity inference caches resume safely after clean interruption.

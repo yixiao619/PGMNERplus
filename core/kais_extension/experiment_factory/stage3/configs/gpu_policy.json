@@ -1,0 +1,11 @@
+{
+  "gpu_policy": "shared",
+  "allowed_gpu_uuids": ["GPU-125d5d3f-5b14-8107-1019-91c53c335441", "GPU-0c33c28b-c749-a9f7-d86d-97ec3af30887", "GPU-2c45c36d-c789-4deb-7ac4-8712f14b82b6"],
+  "global_max_concurrency": 2,
+  "max_factory_jobs_per_gpu": 1,
+  "reserve_memory_fraction": 0.15,
+  "reserve_memory_mib_min": 12288,
+  "poll_seconds": 300,
+  "monitor_seconds": 20,
+  "foreign_process_drop_event_mib": 4096
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "name": "PGMNER Factory Stage 2 Parallel Validation",
+  "dataset": "twitter2017",
+  "selection_split": "dev",
+  "test_evaluation": false,
+  "source_stage1": "/home/jyx/yixiao/MINER-My/kais_extension/experiment_factory/runs/submissions/stage1_20261010_104021_eb350d2c86",
+  "checkpoint": "/data/jyx/MINER-My/outputs/pp_ib_partial_ot_grid_dc10_m05_seed42/best_model.pth",
+  "training": {"max_epochs": 5, "patience": 2, "timeout_seconds": 14400},
+  "optimizer": {"new_lr": 0.0001, "module_lr": 0.00001, "head_lr": 0.000005, "backbone_lr": 0.000001, "weight_decay": 0.0001, "warmup_ratio": 0.1},
+  "resource": {"expected_peak_mib": 15360, "global_max_concurrency": 2},
+  "reused": [
+    {"id":"FULL_S42","group":"A","seed":42,"role":"control","source_id":"FULL_STAGE1"},
+    {"id":"P1B_S42","group":"A","seed":42,"role":"treatment","source_id":"P1B_KL_HALF"},
+    {"id":"G1_PARTIAL_S42","group":"B","seed":42,"role":"treatment","source_id":"G1_PARTIAL"},
+    {"id":"G1_FULL_S42","group":"B","seed":42,"role":"control","source_id":"G1_FULL"}
+  ],
+  "jobs": [
+    {"id":"A_FULL_S123","group":"A","seed":123,"role":"control","route":"BASELINE","variant":"original","stage":2,"expected_peak_mib":15360,"timeout_seconds":14400},
+    {"id":"A_P1B_S123","group":"A","seed":123,"role":"treatment","route":"P1","variant":"kl_half","ib_kl_weight":0.0005,"stage":2,"expected_peak_mib":15360,"timeout_seconds":14400},
+    {"id":"A_FULL_S456","group":"A","seed":456,"role":"control","route":"BASELINE","variant":"original","stage":2,"expected_peak_mib":15360,"timeout_seconds":14400},
+    {"id":"A_P1B_S456","group":"A","seed":456,"role":"treatment","route":"P1","variant":"kl_half","ib_kl_weight":0.0005,"stage":2,"expected_peak_mib":15360,"timeout_seconds":14400},
+    {"id":"B_PARTIAL_S123","group":"B","seed":123,"role":"treatment","route":"G1","variant":"partial_ot","ot_backend":"partial","stage":2,"expected_peak_mib":15360,"timeout_seconds":14400},
+    {"id":"B_FULL_S123","group":"B","seed":123,"role":"control","route":"G1","variant":"full_ot","ot_backend":"full","stage":2,"expected_peak_mib":15360,"timeout_seconds":14400},
+    {"id":"C_RELIABILITY_S42","group":"C","seed":42,"role":"treatment","route":"G3","variant":"reliability_weighted_cost","reliability_strength":1.0,"stage":2,"expected_peak_mib":15360,"timeout_seconds":14400},
+    {"id":"C_UNWEIGHTED_S42","group":"C","seed":42,"role":"control","route":"G3","variant":"unweighted_control","reliability_strength":0.0,"stage":2,"expected_peak_mib":15360,"timeout_seconds":14400},
+    {"id":"D_STABLE_S42","group":"D","seed":42,"role":"treatment","route":"P3","variant":"stable_selective","gate_mode":"stable","gate_temperature":2.0,"gate_variance_target":0.01,"gate_reg_weight":0.001,"alpha":0.5,"unfreeze_head":true,"stage":2,"expected_peak_mib":15360,"timeout_seconds":14400},
+    {"id":"D_FIXED_S42","group":"D","seed":42,"role":"control","route":"P3","variant":"stable_fixed_control","gate_mode":"fixed_0.5","gate_temperature":2.0,"gate_variance_target":0.01,"gate_reg_weight":0.001,"alpha":0.5,"unfreeze_head":true,"stage":2,"expected_peak_mib":15360,"timeout_seconds":14400}
+  ],
+  "pairs": [
+    {"group":"A","seed":42,"treatment":"P1B_S42","control":"FULL_S42","contrast":"P1B - Full"},
+    {"group":"A","seed":123,"treatment":"A_P1B_S123","control":"A_FULL_S123","contrast":"P1B - Full"},
+    {"group":"A","seed":456,"treatment":"A_P1B_S456","control":"A_FULL_S456","contrast":"P1B - Full"},
+    {"group":"B","seed":42,"treatment":"G1_PARTIAL_S42","control":"G1_FULL_S42","contrast":"Partial - Full OT"},
+    {"group":"B","seed":123,"treatment":"B_PARTIAL_S123","control":"B_FULL_S123","contrast":"Partial - Full OT"},
+    {"group":"C","seed":42,"treatment":"C_RELIABILITY_S42","control":"C_UNWEIGHTED_S42","contrast":"Reliability - Unweighted"},
+    {"group":"D","seed":42,"treatment":"D_STABLE_S42","control":"D_FIXED_S42","contrast":"Learned - Fixed gate"}
+  ]
+}

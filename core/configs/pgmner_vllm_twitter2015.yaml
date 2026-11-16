@@ -1,0 +1,30 @@
+# PGMNER + VLLM (Twitter-2015) — same recipe as twitter2017
+
+dataset: twitter2015
+data_dir: data/twitter2015
+vllm_desc_dir: data/twitter2015/vllm_desc
+
+use_vllm_desc: true
+desc_fusion: concat
+desc_max_words: 60
+tweet_max_seq_len: 128
+max_seq_len: 196
+vllm_desc_path: "data/twitter2015/vllm_desc/{split}.jsonl"
+
+model_name_or_path: pretrain/roberta-large
+tokenizer_name: pretrain/roberta-large
+vit_name: pretrain/clip-vit-base-patch16
+batch_size: 16
+epoch: 40
+lr: 3e-5
+bert_lr: 1e-5
+patience: 8
+use_pp_ib: true
+beta_polar: 0.01
+use_got: true
+got_mode: partial_sinkhorn
+partial_mass_init: 0.5
+dust_cost: 1.0
+ot_warmup_epochs: 3
+use_ema: true
+ema_decay: 0.999

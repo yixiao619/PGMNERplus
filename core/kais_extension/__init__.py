@@ -1,0 +1,1 @@
+"""KAIS extension workspace package."""

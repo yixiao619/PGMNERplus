@@ -1,0 +1,30 @@
+# GOT：语义 OT + GW 结构项（训练入口为 argparse，本文件作文档）
+# 与 twitter2017_sem_ot.yaml 对齐；结构消融见 got_struct_mode
+
+use_semantic_ot: false
+use_got: true
+ot_alpha: 0.05
+ot_eps: 0.1
+ot_sinkhorn_iter: 10
+ot_lambda_align: 1.0
+got_lambda_sem: 0.5
+struct_mode: "full"   # CLI: --got_struct_mode full|identity|ones
+
+# MTC / SCL：加强 MISC 与 ORG、LOC 的负样本对比（关闭则与原版 SCL 一致）
+# use_misc_weighted_scl: false
+# scl_misc_neg_weight: 2.0
+
+# 对应 CLI（MINER-My 根目录）：
+# python main-mner-robert.py \
+#   --data_dir data/twitter2017 \
+#   --output_dir checkpoints/twitter2017-got \
+#   --model_name_or_path pretrain/roberta-base \
+#   --tokenizer_name pretrain/roberta-base \
+#   --vit_name pretrain/clip-vit-base-patch32 \
+#   --gpu_id 0 --epoch 30 --batch_size 8 \
+#   --max_seq_len 128 --max_span_len 4 --lr 3e-5 --bert_lr 3e-5 \
+#   --patience 5 --seed 42 --logging_steps 100 \
+#   --do_train true --do_eval true --do_predict true \
+#   --use_got --ot_alpha 0.05 --ot_eps 0.1 \
+#   --ot_sinkhorn_iter 10 --ot_lambda_align 1.0 --got_lambda_sem 0.5 \
+#   --got_struct_mode full

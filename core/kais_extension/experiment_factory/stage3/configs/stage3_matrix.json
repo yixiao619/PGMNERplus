@@ -1,0 +1,6 @@
+{
+  "schema_version": 1,
+  "group_a": {"seeds": [42, 123, 456], "epochs": 40, "selection_split": "dev", "original_kl_weight": 0.001, "half_kl_weight": 0.0005},
+  "group_b": {"id": "B_FULL_S123", "seed": 123, "epochs": 5, "patience": 2, "matched_partial_status": "/home/jyx/yixiao/MINER-My/kais_extension/experiment_factory/stage2/runs/stage2_20261012_160006_2fe9aa811f/runs/B_PARTIAL_S123/status.json"},
+  "resources": {"expected_peak_mib": 18432, "max_concurrency": 2, "poll_seconds": 300, "monitor_seconds": 20, "max_attempts_group_a": 1, "max_attempts_group_b": 2}
+}

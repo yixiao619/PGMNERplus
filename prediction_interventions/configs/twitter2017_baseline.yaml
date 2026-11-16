@@ -1,0 +1,14 @@
+# PAR-MNER baseline（CAC）— 训练仍为 argparse，本文件作文档
+# 对应 scripts/run_twitter2017_baseline_roberta_base.sh / multi_seed baseline 分支
+
+use_semantic_ot: false
+use_got: false
+
+# MTC / SCL：MISC 与 ORG/LOC 负对加权（需训练时传 --use_misc_weighted_scl 或在 YAML 中设为 true）
+# use_misc_weighted_scl: false
+# scl_misc_neg_weight: 2.0
+
+# python main-mner-robert.py \
+#   --data_dir data/twitter2017 \
+#   --output_dir checkpoints/twitter2017-baseline-seed42 \
+#   ...（同 run_twitter2017_baseline_roberta_base.sh，不传 --use_semantic_ot / --use_got）

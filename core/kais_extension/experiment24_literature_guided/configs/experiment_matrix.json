@@ -1,0 +1,12 @@
+{
+  "protocol": "DEV-only short screening",
+  "seed": 42,
+  "max_epochs": 5,
+  "patience": 2,
+  "test_evaluation": false,
+  "jobs": [
+    {"id": "E24_A_TASK_GUIDED_OT", "route": "A", "expected_peak_mib": 18432},
+    {"id": "E24_B_GROUNDING_SUPERVISED_POT", "route": "B", "expected_peak_mib": 4096},
+    {"id": "E24_C_COUNTERFACTUAL_ALIGNMENT", "route": "C", "expected_peak_mib": 20480}
+  ]
+}

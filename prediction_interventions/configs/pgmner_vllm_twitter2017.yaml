@@ -1,0 +1,48 @@
+# PGMNER + VLLM (Twitter-2017) — mirrors dc10_m05 baseline + description augment
+# Train: python main-mner-robert.py ... (see scripts/run_pgmner_vllm.sh)
+# Toggle use_vllm_desc: false reproduces baseline PGMNER (~90.647% test F1).
+
+dataset: twitter2017
+data_dir: data/twitter2017
+vllm_desc_dir: data/twitter2017/vllm_desc
+
+use_vllm_desc: true
+desc_fusion: concat
+desc_max_words: 60
+desc_sep_token: "</s>"
+tweet_max_seq_len: 128
+max_seq_len: 196
+vllm_desc_path: "data/twitter2017/vllm_desc/{split}.jsonl"
+vllm_backend: stub
+
+model_name_or_path: pretrain/roberta-large
+tokenizer_name: pretrain/roberta-large
+vit_name: pretrain/clip-vit-base-patch16
+use_hf_clip_vision: true
+auto_img_dims: true
+
+batch_size: 16
+epoch: 40
+lr: 3e-5
+bert_lr: 1e-5
+weight_decay: 0.01
+warmup_ratio: 0.1
+patience: 8
+seed: 42
+logging_steps: 100
+eval_split_for_best: dev
+
+use_pp_ib: true
+beta_polar: 0.01
+delta_minus: 0.2
+delta_plus: 0.8
+use_got: true
+got_mode: partial_sinkhorn
+ot_alpha: 0.05
+entropy_eps: 0.1
+ot_sinkhorn_iter: 30
+partial_mass_init: 0.5
+dust_cost: 1.0
+ot_warmup_epochs: 3
+use_ema: true
+ema_decay: 0.999

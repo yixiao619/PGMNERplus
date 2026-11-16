@@ -1,0 +1,3042 @@
+[
+  {
+    "file": "core/main-mner-robert.py",
+    "source": "/data/jyx/yixiao/MINER-My/main-mner-robert.py",
+    "sha256": "9957ecc401ce8e37f216e484926a726d1695a2db8407c2072c76b4873a2ba2a5"
+  },
+  {
+    "file": "core/IB_python.py",
+    "source": "/data/jyx/yixiao/MINER-My/IB_python.py",
+    "sha256": "7228d896355c3715ffa3925dd01acfaf1387a0fa66fd73d1ec59a92707bc0a27"
+  },
+  {
+    "file": "core/OT.py",
+    "source": "/data/jyx/yixiao/MINER-My/OT.py",
+    "sha256": "5ecbe06f8f28f8d261129b6fe4cb42088e4bd0fe55c9b77a64f8fb5ad4150373"
+  },
+  {
+    "file": "core/engine_utils.py",
+    "source": "/data/jyx/yixiao/MINER-My/engine_utils.py",
+    "sha256": "67c0c9bf77a0db88328d1ed9a8805817986b86bf2f9eb291f2a47ff69d69ba69"
+  },
+  {
+    "file": "core/readme.txt",
+    "source": "/data/jyx/yixiao/MINER-My/readme.txt",
+    "sha256": "b757f20c1e847bc842828cdb0034468dfbca0154798ed221dd4e7a2ac757b3ed"
+  },
+  {
+    "file": "core/main-mner-robert_baseline_backup.py",
+    "source": "/data/jyx/yixiao/MINER-My/main-mner-robert_baseline_backup.py",
+    "sha256": "37083b5497b09f2f69f69fadc891bb3286ae407909321071d4631e81abd543b6"
+  },
+  {
+    "file": "core/pp_ib_probe.py",
+    "source": "/data/jyx/yixiao/MINER-My/pp_ib_probe.py",
+    "sha256": "28e43874644ef916bebb73844f4cfd85490e31dd7bc2ebca8a6f1c69d4235af1"
+  },
+  {
+    "file": "core/eval_metric.py",
+    "source": "/data/jyx/yixiao/MINER-My/eval_metric.py",
+    "sha256": "afa8ea22764fb2f64fedd87961a667b7c4f25ef6dd3a2403b04e1f29bc1d64d1"
+  },
+  {
+    "file": "core/OT_baseline_backup.py",
+    "source": "/data/jyx/yixiao/MINER-My/OT_baseline_backup.py",
+    "sha256": "5ecbe06f8f28f8d261129b6fe4cb42088e4bd0fe55c9b77a64f8fb5ad4150373"
+  },
+  {
+    "file": "core/graph_got_toy.py",
+    "source": "/data/jyx/yixiao/MINER-My/graph_got_toy.py",
+    "sha256": "963d84aed63718319b0b798038e9655f4e45c8231bfa22757eac40f1fdfadbf8"
+  },
+  {
+    "file": "core/requirements.txt",
+    "source": "/data/jyx/yixiao/MINER-My/requirements.txt",
+    "sha256": "8c064f9220ad2ea39c0a496b752e15666bd0a361e3daeb63ea34b0312b9a777f"
+  },
+  {
+    "file": "core/fitlog_test.py",
+    "source": "/data/jyx/yixiao/MINER-My/fitlog_test.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "core/LICENSE",
+    "source": "/data/jyx/yixiao/MINER-My/LICENSE",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "file": "core/loader4image.py",
+    "source": "/data/jyx/yixiao/MINER-My/loader4image.py",
+    "sha256": "d69e9b84c7630aa99c0734f894e979351677e18a87b46ee4d28bf624b134b3f5"
+  },
+  {
+    "file": "core/knapsack_01.py",
+    "source": "/data/jyx/yixiao/MINER-My/knapsack_01.py",
+    "sha256": "75b27e2e0b3780547abbffa48fc23a1a1b355e0acd4154a337ece95aee0d3fa8"
+  },
+  {
+    "file": "core/MultimodalFusion.py",
+    "source": "/data/jyx/yixiao/MINER-My/MultimodalFusion.py",
+    "sha256": "37763840a54919ef3b8faf3b7822556dc72d48530a1cc3461d2582a9911e0eab"
+  },
+  {
+    "file": "core/OT_Claude.py",
+    "source": "/data/jyx/yixiao/MINER-My/OT_Claude.py",
+    "sha256": "d859d9af6cb79f9c3d51c51929a64faa560d833318e9bebacd8f713e8dc3e29d"
+  },
+  {
+    "file": "core/kais_extension/__init__.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/__init__.py",
+    "sha256": "b4c953d7c672ff965ebe0388335028736aef55f2d5d89e1ee4b120b264a3baa7"
+  },
+  {
+    "file": "core/utils/utils_metrics.py",
+    "source": "/data/jyx/yixiao/MINER-My/utils/utils_metrics.py",
+    "sha256": "a14cb82e930e13223e52b7b956bbf24683734612666b7f4f0df9abc79d1e7891"
+  },
+  {
+    "file": "core/utils/typos.py",
+    "source": "/data/jyx/yixiao/MINER-My/utils/typos.py",
+    "sha256": "443e837c29570c2af9d888427a270c8be617b09b0c4840c32eed7bd9142a0352"
+  },
+  {
+    "file": "core/utils/vllm_sanity.py",
+    "source": "/data/jyx/yixiao/MINER-My/utils/vllm_sanity.py",
+    "sha256": "950c362e45ac2649d799c231bf29dd1364d7c2600be2755cd6bada082120fe45"
+  },
+  {
+    "file": "core/utils/datasets.py",
+    "source": "/data/jyx/yixiao/MINER-My/utils/datasets.py",
+    "sha256": "7516a00899cff347b2908fb79b9befc10922cce0d57bc8dd3d95f8c2216b17f0"
+  },
+  {
+    "file": "core/utils/allen_utils.py",
+    "source": "/data/jyx/yixiao/MINER-My/utils/allen_utils.py",
+    "sha256": "8d15f025cd70c96844959c84a4f7a5986551e72471af2607a25e8c2f9b55d164"
+  },
+  {
+    "file": "core/utils/utils_contrastive.py",
+    "source": "/data/jyx/yixiao/MINER-My/utils/utils_contrastive.py",
+    "sha256": "572dd2c366c9fbe4a0d3100e2b5c2d64b5bda33cffc19222c4da2c752d04de4e"
+  },
+  {
+    "file": "core/utils/datasets_PGMI.py",
+    "source": "/data/jyx/yixiao/MINER-My/utils/datasets_PGMI.py",
+    "sha256": "bff6bf812fe47e975b3b3555e365531ed309788b21ee48527c826f96fa059e93"
+  },
+  {
+    "file": "core/analysis/make_table1_figures.py",
+    "source": "/data/jyx/yixiao/MINER-My/analysis/make_table1_figures.py",
+    "sha256": "d7956bbbe8eb55f69b98e6fdcd01d07c473d502c4bf63650c591380216d3391f"
+  },
+  {
+    "file": "core/analysis/dataset_analysis.py",
+    "source": "/data/jyx/yixiao/MINER-My/analysis/dataset_analysis.py",
+    "sha256": "671e2610fced84782aa39754a71960158bb36ca14de61d4ac91b4d579a762374"
+  },
+  {
+    "file": "core/analysis/create_reference_stats.py",
+    "source": "/data/jyx/yixiao/MINER-My/analysis/create_reference_stats.py",
+    "sha256": "19161c7e816c6b73239ef26391700ee367bf4d8b7a24ca8055f71c339f18ada9"
+  },
+  {
+    "file": "core/analysis/README.md",
+    "source": "/data/jyx/yixiao/MINER-My/analysis/README.md",
+    "sha256": "878990c4d2463a28565660a847577e3193da7b028ffd8dea373604c65f2a3b2d"
+  },
+  {
+    "file": "core/aux_knowledge/backends.py",
+    "source": "/data/jyx/yixiao/MINER-My/aux_knowledge/backends.py",
+    "sha256": "a7ac18c2b0ce480502cab662d78830de51762d3a05b07021c14f59a3aea01a7e"
+  },
+  {
+    "file": "core/aux_knowledge/qwen35_vl_backend.py",
+    "source": "/data/jyx/yixiao/MINER-My/aux_knowledge/qwen35_vl_backend.py",
+    "sha256": "41a7cb36c04bfbf24f34f008ec507910d9c2b84681ec2a8f98715b5b01dc3993"
+  },
+  {
+    "file": "core/aux_knowledge/prompts_vllm_desc.py",
+    "source": "/data/jyx/yixiao/MINER-My/aux_knowledge/prompts_vllm_desc.py",
+    "sha256": "4393202ed8ffda69160b76f8e2f477972855d0be8acfd9fd4fe00fc2a122d522"
+  },
+  {
+    "file": "core/aux_knowledge/prompts.py",
+    "source": "/data/jyx/yixiao/MINER-My/aux_knowledge/prompts.py",
+    "sha256": "2ee69b095a478a2147d3fb4553b42d7fbd43985c3cf7f25acb84c37bdf3fe394"
+  },
+  {
+    "file": "core/aux_knowledge/__init__.py",
+    "source": "/data/jyx/yixiao/MINER-My/aux_knowledge/__init__.py",
+    "sha256": "796143249dc4709805f7f4e88b138c879ce0b5b7ff1c748eb5f12411bb148d8d"
+  },
+  {
+    "file": "core/aux_knowledge/generate_aux.py",
+    "source": "/data/jyx/yixiao/MINER-My/aux_knowledge/generate_aux.py",
+    "sha256": "a849aa4486fb41fc573115ad3cc45dbf8472c094d791aafc8795507a8727953a"
+  },
+  {
+    "file": "core/tests/test_vllm_desc.py",
+    "source": "/data/jyx/yixiao/MINER-My/tests/test_vllm_desc.py",
+    "sha256": "0f5aa26b4fbf214634e896058e62cefcb80c5aa47b485d0098e86ed5e653dc60"
+  },
+  {
+    "file": "core/tests/test_aux_knowledge.py",
+    "source": "/data/jyx/yixiao/MINER-My/tests/test_aux_knowledge.py",
+    "sha256": "c3ad52e2916b50e020630e415fba6d7399eec03197be8582b0916d3f50a666ae"
+  },
+  {
+    "file": "core/scripts/collect_per_class_summary.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/collect_per_class_summary.py",
+    "sha256": "93d5a670ce333846c7a831ec9ddb4154050b62247150d75db507c5ae9fee713e"
+  },
+  {
+    "file": "core/scripts/run_twitter2017_got.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_twitter2017_got.sh",
+    "sha256": "0e1a91ff5a11f7e0e264b5c09630617023a6a966c77cab79723a1ab30b83c968"
+  },
+  {
+    "file": "core/scripts/run_b2_winning_ema9995_seed42.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_b2_winning_ema9995_seed42.sh",
+    "sha256": "3af266fa9dd83c32dadd3925940246955b6e9b7e020be461ecc26d7283a9b86e"
+  },
+  {
+    "file": "core/scripts/run_b2_winning_seed456.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_b2_winning_seed456.sh",
+    "sha256": "3021a0aba7c9777c9cfb32693b7ad9883564700f74f403caabba765408ee44b2"
+  },
+  {
+    "file": "core/scripts/run_pp_ib_fixed.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pp_ib_fixed.sh",
+    "sha256": "3ca6048c85ff33b32d14bb489abd1fe47b402ccc64546a7a8edbfab23cd2daae"
+  },
+  {
+    "file": "core/scripts/ensemble_span_forward.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/ensemble_span_forward.py",
+    "sha256": "82979d709c06559a768c0748e39ffe0ce9d88442da9c222af52a506b04f1b82d"
+  },
+  {
+    "file": "core/scripts/merge_sensitivity_summary.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/merge_sensitivity_summary.py",
+    "sha256": "773fe36aa4ec8e6205c3b297e8bc134d33e5ed702f464f51eb1a37856e4fbbbc"
+  },
+  {
+    "file": "core/scripts/run_exp_round2_exp3_ib_cons.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_exp_round2_exp3_ib_cons.sh",
+    "sha256": "49a56940e569c3721a5ad03b6abcf9554c5f455ef19a506ed79317221d76da69"
+  },
+  {
+    "file": "core/scripts/run_twitter2015_main.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_twitter2015_main.sh",
+    "sha256": "bb065c6519d6280d57534411044ad605d5a7d2515ef9646dffe6a49c378bf8af"
+  },
+  {
+    "file": "core/scripts/move_datasets_to_data_jyx.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/move_datasets_to_data_jyx.sh",
+    "sha256": "b5adb144f7732f0e91d08554b6455804579dc136d7458f3837ba7216b2508747"
+  },
+  {
+    "file": "core/scripts/collect_entity.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/collect_entity.py",
+    "sha256": "1efc06c0c0e546b077264f79281e3b0255577d180f698427d734e52e32b0e90b"
+  },
+  {
+    "file": "core/scripts/run_both_grid.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_both_grid.sh",
+    "sha256": "ece81e7f02ab6328c308764b8c8feb1662465a18c1c3347c8ef9753a6484ce60"
+  },
+  {
+    "file": "core/scripts/run_pgmner_full_twitter2017.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pgmner_full_twitter2017.sh",
+    "sha256": "9188a8709ddf1435de1e7e5d87c1998bfab45bf1831810c56621fd4a4ce8bb04"
+  },
+  {
+    "file": "core/scripts/run_d1_dc10_m05_seed456.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_d1_dc10_m05_seed456.sh",
+    "sha256": "19b6c75eb35115bbe1a6a374ea00e4fe42bc6ef3ce9e4a3fc3c14f8aa28669aa"
+  },
+  {
+    "file": "core/scripts/run_pgmner_vllm.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pgmner_vllm.sh",
+    "sha256": "c27ff717466130047360a45b685359a5cc706277328efc005311f216c0ab1a1a"
+  },
+  {
+    "file": "core/scripts/run_fig3_sweep_background.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_fig3_sweep_background.sh",
+    "sha256": "22cb2aa8e2868613c7ad63eb8b719e340594526173a5f33079157b9840e46718"
+  },
+  {
+    "file": "core/scripts/run_d1b_dc08_m06_seed123.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_d1b_dc08_m06_seed123.sh",
+    "sha256": "bafb4874aaa9c3609ed82235553faa4b58ad335612b4aab8bafbe7497e00a4bb"
+  },
+  {
+    "file": "core/scripts/run_qwen35_vllm_desc.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_qwen35_vllm_desc.sh",
+    "sha256": "1b3159d52d2cb4dfd08fc331ced526dfd8fa810c6e30c741e0957db1d97bd948"
+  },
+  {
+    "file": "core/scripts/run_vllm_experiment_queue.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_vllm_experiment_queue.sh",
+    "sha256": "97466dbd27aa8ea9b0653cf781807443c3e4ffff7c52b38d0f28ad24c1abed00"
+  },
+  {
+    "file": "core/scripts/run_phase_ab.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_phase_ab.sh",
+    "sha256": "f6450a1b4c8fb4925803a415326799cd2f1672d98cc9bcbbce272f36de34db26"
+  },
+  {
+    "file": "core/scripts/write_phase1_5_summary.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/write_phase1_5_summary.py",
+    "sha256": "dde2705f99daaa3dfa050ef14d0149bd5fc893ea68e7d98d19edb2fc2dc8df6f"
+  },
+  {
+    "file": "core/scripts/run_exp_pp_ib.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_exp_pp_ib.sh",
+    "sha256": "df05fc8738ccd92ac3d7653c2f61b308daff29216237765ed103c27d9f813e7f"
+  },
+  {
+    "file": "core/scripts/run_phase2_serial.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_phase2_serial.sh",
+    "sha256": "4e70d2e7f64dd9c5183298f5ba1a31a3259ee4d204e7110cf67fda3dfbf9ee0e"
+  },
+  {
+    "file": "core/scripts/run_exp_round2_exp1_crf_bias.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_exp_round2_exp1_crf_bias.sh",
+    "sha256": "e23aa588446611b4d55ef9a8224357ff8af6b6e6e41a2cad5305068a92f5848e"
+  },
+  {
+    "file": "core/scripts/run_twitter2017_ppot_roberta_base.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_twitter2017_ppot_roberta_base.sh",
+    "sha256": "fa5bb7285e1d15af460fca0469eaf8207aece6a4ec60fcf3739ea6754e7a2162"
+  },
+  {
+    "file": "core/scripts/run_twitter2015.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_twitter2015.sh",
+    "sha256": "015d438141ca6c9bf13a0c937ee72f3d7c3fe87f46e0afc4bbc8c9f0535462c2"
+  },
+  {
+    "file": "core/scripts/run_aug_ablation.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_aug_ablation.sh",
+    "sha256": "4a220586e851069c9bd36fd9f065d36eda24393a21c315a0d401788e5a04b2a6"
+  },
+  {
+    "file": "core/scripts/run_diag_pp_ib.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_diag_pp_ib.sh",
+    "sha256": "dd0c486c05b54827868bbeb0663c4ba29932aaf9fc2e60e361ce317a25cbb2e4"
+  },
+  {
+    "file": "core/scripts/run_pgmner_vllm_train_nohup.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pgmner_vllm_train_nohup.sh",
+    "sha256": "58d3f5424b4c8c7010087f24f877c3da5734daff5135c2c75d413914c056d67c"
+  },
+  {
+    "file": "core/scripts/run_pp_ib_b2_cell.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pp_ib_b2_cell.sh",
+    "sha256": "c1b891e1a887561a448e3f48a6e6223a6d0d8aa22a6223921677fd5cfb7b0b1b"
+  },
+  {
+    "file": "core/scripts/run_paper_repro_twitter2017.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_paper_repro_twitter2017.sh",
+    "sha256": "60945a82025170968cc4bc5fbdcbe2ae6da79f7368f228a547542f538532e17d"
+  },
+  {
+    "file": "core/scripts/launch_vllm_overnight_sweep.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/launch_vllm_overnight_sweep.sh",
+    "sha256": "15af7a1d7d8bb18f5afe4851a00ce8695d4e9349cb9516e435b1d2cc6a5b0f6f"
+  },
+  {
+    "file": "core/scripts/run_pp_ib_full_ot_seed42.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pp_ib_full_ot_seed42.sh",
+    "sha256": "4ba859cadbf166aa0e3d75f9e37546aa757b91d318f2629e3f1f4d348bfdcdcf"
+  },
+  {
+    "file": "core/scripts/run_twitter2017_multi_seed.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_twitter2017_multi_seed.sh",
+    "sha256": "8612d0048ddf1de0f74e4678f39d0725f1ce960d322db868c2b53400e806e0e5"
+  },
+  {
+    "file": "core/scripts/run_pp_ib_lrtune_seed42.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pp_ib_lrtune_seed42.sh",
+    "sha256": "4e6fdd678874e436d9ec4952466ff0311dfe49ddf46d9feb90013c9ed214471d"
+  },
+  {
+    "file": "core/scripts/watch_pgmner_vllm_progress.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/watch_pgmner_vllm_progress.sh",
+    "sha256": "7e49bf36e50015526832c99f8e8c95c8d9c4bac89b21401b94623929eb62dde4"
+  },
+  {
+    "file": "core/scripts/run_d1_dc10_m05_extra_seeds.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_d1_dc10_m05_extra_seeds.sh",
+    "sha256": "4daf1fd6425a4f5077f833f40b6a7280925d18234259b3215673e1424d9534b1"
+  },
+  {
+    "file": "core/scripts/plot_fig3_sensitivity.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/plot_fig3_sensitivity.py",
+    "sha256": "a5f2a34bde16fb027b8907246f81d86ceabe9731edeaad5b98101765ca1d82f3"
+  },
+  {
+    "file": "core/scripts/collect_fig5_cases.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/collect_fig5_cases.py",
+    "sha256": "ff6c1eb8c4798353064894163ce616840bcc026a210c612239e3af9fef95a27e"
+  },
+  {
+    "file": "core/scripts/run_pgmner_vllm_auto.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pgmner_vllm_auto.sh",
+    "sha256": "c0c4ab2137bd33964cc7a093302a4f150d8dc8677a63ea6e587d3f61e0f1d463"
+  },
+  {
+    "file": "core/scripts/run_exp_both.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_exp_both.sh",
+    "sha256": "64a277b870f3fff1d46e9e610f327c1805483aef86a0b414ca263d181d4db083"
+  },
+  {
+    "file": "core/scripts/run_pp_ib_partial_ot_ema_seed42.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pp_ib_partial_ot_ema_seed42.sh",
+    "sha256": "77f53501869e7e59146ee849bba0a8dc82b2305ba19896f9fb433a54f0f2452c"
+  },
+  {
+    "file": "core/scripts/run_twitter2017_semantic_ot.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_twitter2017_semantic_ot.sh",
+    "sha256": "81b92c9fb4f4b81ab3b33ded962e881f76e42caa1c3f4f4bba813af35a57ba4a"
+  },
+  {
+    "file": "core/scripts/collect_vllm_sweep.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/collect_vllm_sweep.py",
+    "sha256": "7b6f9b198679f331b33bf0d0e434b2dc233e1b440aa36f49f7071982a9341d6a"
+  },
+  {
+    "file": "core/scripts/run_d1_dc10_m05_seed123.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_d1_dc10_m05_seed123.sh",
+    "sha256": "8ccb206999242d0af8c718b35d5bacc6134310a53d6bc167973483d996487230"
+  },
+  {
+    "file": "core/scripts/run_aug_generate_all.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_aug_generate_all.sh",
+    "sha256": "75f547d00eecada136bb7feba9016216b268a3e560ae26648f2a0a0bdac1b02e"
+  },
+  {
+    "file": "core/scripts/run_fig3_gpu2.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_fig3_gpu2.sh",
+    "sha256": "1adb77d2ae19596e9f9913b7a457c262bcecffb0e2882f78beb1c10ca455b429"
+  },
+  {
+    "file": "core/scripts/generate_vllm_desc.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/generate_vllm_desc.py",
+    "sha256": "eb987bbdb1288f2a145ab35c4bf52b644d0b70cfcdf94c40dcd6ef39ec43e427"
+  },
+  {
+    "file": "core/scripts/run_b2_dc12_m06_seed42.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_b2_dc12_m06_seed42.sh",
+    "sha256": "74179dc4ec39915876017347d520f0a0280fa053b56dec1615fd060273019b42"
+  },
+  {
+    "file": "core/scripts/write_phase_ab_summary.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/write_phase_ab_summary.py",
+    "sha256": "deb2ba0fa14a82ba65c44d2af2975a4c2404a768a6538b240f8c116e1e1d809c"
+  },
+  {
+    "file": "core/scripts/run_pp_ib_vitL14_seed42.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pp_ib_vitL14_seed42.sh",
+    "sha256": "64557caf59c19a17bc47bd91e2b6754c83df1b0db4f815df2c3da09bf5148ea2"
+  },
+  {
+    "file": "core/scripts/run_twitter2017_baseline_roberta_base.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_twitter2017_baseline_roberta_base.sh",
+    "sha256": "70f819db6c06bc35ea266f7460f1e214e5bea7cff1ded19589ae19862ef7eb43"
+  },
+  {
+    "file": "core/scripts/run_pp_ib_partial_ot_ema_focal_seed42.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pp_ib_partial_ot_ema_focal_seed42.sh",
+    "sha256": "5851390ec0c767bccd83a907520973f0c6f18aa1a5093514ba5e6886bad14453"
+  },
+  {
+    "file": "core/scripts/run_vllm_aug_top2.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_vllm_aug_top2.sh",
+    "sha256": "606ca8fbd6d89ee3ee611c1cdbffd0c20ab0a85ff584ccc28b908b57ba1e0823"
+  },
+  {
+    "file": "core/scripts/plot_fig5_case.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/plot_fig5_case.py",
+    "sha256": "70d03465444f29dc0cf6710b963851c92a1cfc12fbdb1230a517bd7c97535e35"
+  },
+  {
+    "file": "core/scripts/run_b2_dc08_m06_seed42.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_b2_dc08_m06_seed42.sh",
+    "sha256": "edaee65318a8f056785e0160b0c35bb5aae4ffd7101ae08265bb7c3a0e27f45d"
+  },
+  {
+    "file": "core/scripts/run_pp_ib_stepA_v2.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pp_ib_stepA_v2.sh",
+    "sha256": "9ada4d97a9e4cfce6eeafe90b1a82e05e1eb829d1c2493283a6d1983ef465657"
+  },
+  {
+    "file": "core/scripts/diag_pp_ib_protocol.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/diag_pp_ib_protocol.py",
+    "sha256": "45286c4abafb2985c1749f80a3d9a45b2920e18ef395588fb154c2530ec83591"
+  },
+  {
+    "file": "core/scripts/run_multiseed_pgmner.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_multiseed_pgmner.sh",
+    "sha256": "98e3aa8e489ea640a1b09c10db6c6b7c468c41f673ce52bd91050dfb5af0a35b"
+  },
+  {
+    "file": "core/scripts/run_twitter2017_ppot_beta_sweep.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_twitter2017_ppot_beta_sweep.sh",
+    "sha256": "b409d5384bc62cbeca4c739e1ba103185bc4e05dcb854023d87f67cf8da40330"
+  },
+  {
+    "file": "core/scripts/run_fig45_only.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_fig45_only.sh",
+    "sha256": "c6420d6feb23b163142c5fd2d709b81905987e57c0c98cfcd3c3074f3d027e6a"
+  },
+  {
+    "file": "core/scripts/write_phase2_summary.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/write_phase2_summary.py",
+    "sha256": "08e2e72f4f8fe57f1ac16c34c0d40cd0671ba5cf63b70932ca497ca4bfbb7774"
+  },
+  {
+    "file": "core/scripts/eval_ensemble_span.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/eval_ensemble_span.py",
+    "sha256": "1afd87fa9c143c6a2d48d82d42523fe229229e54b5f5894338a45fd03e201a8e"
+  },
+  {
+    "file": "core/scripts/run_baseline_fixed.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_baseline_fixed.sh",
+    "sha256": "2c1bb426b28d5cdb035a1068ff5b6e911d6c9fee013aa5ebb94d8d6ce22c9a72"
+  },
+  {
+    "file": "core/scripts/fig_common.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/fig_common.py",
+    "sha256": "7ef4de4d87b6058a127e2276f38e53d103bb1215b2b8d4cc911a20a03ea796b1"
+  },
+  {
+    "file": "core/scripts/run_pgmner_vllm_openai_gpu0.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pgmner_vllm_openai_gpu0.sh",
+    "sha256": "f631c66b73b79dd5fe2d249110bdc201165f12ee1f45634ca648fb2d8f2b6398"
+  },
+  {
+    "file": "core/scripts/run_per_class_rerun_eval.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_per_class_rerun_eval.sh",
+    "sha256": "64702f2732ffa15391749133ec609fa7f78691534e411dc2ec10af908c247e8a"
+  },
+  {
+    "file": "core/scripts/pack_claude_handoff.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/pack_claude_handoff.sh",
+    "sha256": "59a085ecabd65a10cc6dff00c018fdfd4b46e8694d21d2b99d38e023196b4425"
+  },
+  {
+    "file": "core/scripts/run_exp_got_cac.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_exp_got_cac.sh",
+    "sha256": "d9576a950db408cc9dfbf34bb6bbb1a2d17ff8462f39123df34dcd674bfee0fc"
+  },
+  {
+    "file": "core/scripts/run_ablation.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_ablation.sh",
+    "sha256": "a53873241401c7fd00964386f100c65f0dc638593084bf9513f4cb8d0eb39589"
+  },
+  {
+    "file": "core/scripts/run_partial_ot_sensitivity.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_partial_ot_sensitivity.sh",
+    "sha256": "c534f1606701d14bc44dfd1f59bbf680cc7a92a1d72135e4fc1dde6063b7dc06"
+  },
+  {
+    "file": "core/scripts/run_b2_dc07_m065_seed42.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_b2_dc07_m065_seed42.sh",
+    "sha256": "7ce1a319327cf64a14952f25726457353b1600590091c3ebd2f23cec27da3ac4"
+  },
+  {
+    "file": "core/scripts/run_got_graph.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_got_graph.sh",
+    "sha256": "02c0cdadb2f8b52872e0e9f195fb4dda921ac030dca591f12e54c481471275c0"
+  },
+  {
+    "file": "core/scripts/run_towards_91.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_towards_91.sh",
+    "sha256": "15683d9aad53f74893060e0392c0adca87e0c877aa442348cee9c816ff95d8c7"
+  },
+  {
+    "file": "core/scripts/run_dynamic_beta.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_dynamic_beta.sh",
+    "sha256": "ecfca261ed0105ddcdb259f6881e3efc413815860a26f75a025e63a8cdad1665"
+  },
+  {
+    "file": "core/scripts/run_pp_ib_partial_ot.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pp_ib_partial_ot.sh",
+    "sha256": "44e253465ac33d223f51531f93d67ca1ceee41c920fc7567f92374d0357154ae"
+  },
+  {
+    "file": "core/scripts/run_table1_then_training.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_table1_then_training.sh",
+    "sha256": "debd7574d44434fdacef5ad23eb81a32e62b97f4abb9d9d709fc9c053098b11e"
+  },
+  {
+    "file": "core/scripts/run_sensitivity_gw.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_sensitivity_gw.sh",
+    "sha256": "7ad7ffb531cf40f8a56b96a6f72e5124a070540157f41c02235d11facb1e7491"
+  },
+  {
+    "file": "core/scripts/monitor_aug_pipeline.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/monitor_aug_pipeline.sh",
+    "sha256": "bef4d97263690f4af9abf08356dd6ed460868f71648956b02544b1c428e56e7a"
+  },
+  {
+    "file": "core/scripts/run_d2_dc10_m05_vitL14_seed42.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_d2_dc10_m05_vitL14_seed42.sh",
+    "sha256": "0de08d81a1ef3e67397fd2ffa85ea811948787c35956747f957e0617a7a123aa"
+  },
+  {
+    "file": "core/scripts/summarize_all_results.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/summarize_all_results.py",
+    "sha256": "9a78903d8bdaae14ce307f5161180c32ec527c97aa409e190e17a76094f52287"
+  },
+  {
+    "file": "core/scripts/run_pgmner_full_chain.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pgmner_full_chain.sh",
+    "sha256": "1887087647f752e23e69d4506dca232c40bad3339642cb90dd53e48c207f7cc7"
+  },
+  {
+    "file": "core/scripts/run_fig3_sweep.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_fig3_sweep.sh",
+    "sha256": "9cdec6351efe422b64eb7350e272b2ceebf895135b68f1677c73c1b7990cf348"
+  },
+  {
+    "file": "core/scripts/launch_full_pipeline_background.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/launch_full_pipeline_background.sh",
+    "sha256": "dfdd53e0d6961808276569c3d6686b5548a449a662e1837ad06979f63432d4a4"
+  },
+  {
+    "file": "core/scripts/run_twitter2015_roberta_base.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_twitter2015_roberta_base.sh",
+    "sha256": "6a0b60689adc7aff501a0f472cbbd48338008fd6e71d08a6572f161410c4acf1"
+  },
+  {
+    "file": "core/scripts/run_fig345_background.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_fig345_background.sh",
+    "sha256": "ca87df6e5692a243f1f995f468c3e1a0f3b28b19d0fae7e31e1fba7401a2745a"
+  },
+  {
+    "file": "core/scripts/gen_aux_for_top2.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/gen_aux_for_top2.sh",
+    "sha256": "d85279768e8979a67b24f72fd8bedb60e8c86d42db6cb2d211fd0a9657738e4c"
+  },
+  {
+    "file": "core/scripts/run_pp_ib_multiseed.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pp_ib_multiseed.sh",
+    "sha256": "4c3060fc9838647b05dc64eb4b76d98ed96924e86b28e2ac833a1c6fdfb78a89"
+  },
+  {
+    "file": "core/scripts/run_exp_a2_bias_span.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_exp_a2_bias_span.sh",
+    "sha256": "d465b016cf5697dd47a1b8b03d3287bd0a9b36ace18173c8377cde68bc7f4062"
+  },
+  {
+    "file": "core/scripts/run_b2_dc10_m05_seed42.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_b2_dc10_m05_seed42.sh",
+    "sha256": "8711faaf4565a8ac9028d705bc4a6284bc42c8f4bc0365f6359ad7e2a1882ee4"
+  },
+  {
+    "file": "core/scripts/run_push915_ensemble.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_push915_ensemble.sh",
+    "sha256": "f6c4ad3e59e6a5b39b759ef58aa137916367c988a89e84000dcc534eacb70a32"
+  },
+  {
+    "file": "core/scripts/pgmner_job_util.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/pgmner_job_util.sh",
+    "sha256": "f3ead2e05eb440a2b94135acbc58ed93ecd1bc31b00cec90805c10f03e9018c8"
+  },
+  {
+    "file": "core/scripts/run_d1b_dc08_m06_seed456.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_d1b_dc08_m06_seed456.sh",
+    "sha256": "cd7c0c24c0146e42dcd26c47dce0275aa0d74c13616b757829a44e6928ad53df"
+  },
+  {
+    "file": "core/scripts/collect_fig4_viz.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/collect_fig4_viz.py",
+    "sha256": "fd12bbcf24f72f80cfc41c385380ae0f5121fcc43de2e7b1d7c833c7d44f49b9"
+  },
+  {
+    "file": "core/scripts/baseline_hparams.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/baseline_hparams.sh",
+    "sha256": "90f5aa4eba925e92f83c82721caacdf308a48b4537000eb2215ebe9c94c05729"
+  },
+  {
+    "file": "core/scripts/run_pp_ib_partial_ot_grid_seed42.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pp_ib_partial_ot_grid_seed42.sh",
+    "sha256": "0fcc60126d80b072a5045da7e70b97e2ad3766013a81a44b7e181285909c48d5"
+  },
+  {
+    "file": "core/scripts/run_exp_round2_exp2_span_det.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_exp_round2_exp2_span_det.sh",
+    "sha256": "b7b9208b15eebde17dc3f2439090a9af60776e65b45a3f026e1fd6583b3ebddf"
+  },
+  {
+    "file": "core/scripts/run_twitter2017_main.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_twitter2017_main.sh",
+    "sha256": "b2cecd9832cd1b6ae0746eb72946635e0144a77648fcf228db402db2a7feb032"
+  },
+  {
+    "file": "core/scripts/plot_fig4_viz.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/plot_fig4_viz.py",
+    "sha256": "5d0b5f5752c13d0763d4b49c6e43f6b045b7f121005f0523d20d48a677991947"
+  },
+  {
+    "file": "core/scripts/launch_vllm_phase2_sweep.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/launch_vllm_phase2_sweep.sh",
+    "sha256": "45d79799618d35c4ed370a70050a326442dea69c04d707a93e8148d1b81adc2c"
+  },
+  {
+    "file": "core/scripts/start_pgmner_vllm_openai.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/start_pgmner_vllm_openai.sh",
+    "sha256": "db10d63ddc37bba56908d4894a350f4dc62cef8a47e172481eaaffa4a7004e91"
+  },
+  {
+    "file": "core/scripts/run_exp1_pp_ib_dpp_only.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_exp1_pp_ib_dpp_only.sh",
+    "sha256": "c70a887b2e0cc1519f27ec6153d4b515163a0dfca6055b285a88fb583d41f72f"
+  },
+  {
+    "file": "core/scripts/run_phase1_5_after_a4.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_phase1_5_after_a4.sh",
+    "sha256": "4862f259c235c79f50a2522c9e797af83fbd2cbc1cad9a7c18cff4d824851a22"
+  },
+  {
+    "file": "core/scripts/summarize_t17_ablation_3seed.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/summarize_t17_ablation_3seed.py",
+    "sha256": "83ca4aeeaf2ed8d2b5b80f78c33a5efb94e7a371926d6f5f209bbddc9d0e79db"
+  },
+  {
+    "file": "core/scripts/run_twitter2017_roberta_base.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_twitter2017_roberta_base.sh",
+    "sha256": "19d61ad0b59cef52ad91027f9782ed0433636ed5f4e875b7bed061bc76592d0e"
+  },
+  {
+    "file": "core/scripts/sweep_hparams.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/sweep_hparams.py",
+    "sha256": "47bc531268c06e0a52011562a67f6476fc17f15680fae10f2215219088105115"
+  },
+  {
+    "file": "core/scripts/run_phase2_d_series.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_phase2_d_series.sh",
+    "sha256": "7cbf9b3573b144cfaca7d946a270cd25aa4c0db06926da991e40c3b3617b8717"
+  },
+  {
+    "file": "core/scripts/run_pp_ib_partial_ot_seed42.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pp_ib_partial_ot_seed42.sh",
+    "sha256": "f1aff033b460f148126f83229a2df87b71917b7b00a1a9c57e7e29f822ee24ad"
+  },
+  {
+    "file": "core/scripts/run_b2_dc10_m055_seed42.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_b2_dc10_m055_seed42.sh",
+    "sha256": "d1f90dbd61f40ab07a1fb5a2652cd215c033a1610bf2bbc0fabb33233fbe91b8"
+  },
+  {
+    "file": "core/scripts/check_image_coverage.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/check_image_coverage.py",
+    "sha256": "1aa945725641c4630dfebfd546e124e47d73399e07845edd9d225fa01a295377"
+  },
+  {
+    "file": "core/scripts/write_phase2_d1_summary.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/write_phase2_d1_summary.py",
+    "sha256": "fe8886ef9484a1f19bed1b1799d3da6793592322150c12646ce6474a362b44c7"
+  },
+  {
+    "file": "core/scripts/print_pgmner_vllm_latex.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/print_pgmner_vllm_latex.py",
+    "sha256": "3a9cb5e8cb93544e8903288b2f53890e00de1fde3d643e8feee286f666e21271"
+  },
+  {
+    "file": "core/scripts/summarize_5seed.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/summarize_5seed.py",
+    "sha256": "d17796598d43890bc9c4cc03f7860ae9a9bdf462945c650a43aa538d69cbb6f0"
+  },
+  {
+    "file": "core/scripts/run_sensitivity_beta.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_sensitivity_beta.sh",
+    "sha256": "ef2c0b5040ff104eb5b24d770364a441ba14aed1c7dd3109a83464696442f6cd"
+  },
+  {
+    "file": "core/scripts/open_ner_pro.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/open_ner_pro.py",
+    "sha256": "444e0ca2778f5ebcedb2b9b5af2a82e08ffeec205b924f1a7b769b648c18b051"
+  },
+  {
+    "file": "core/scripts/run_pp_ib_stepA.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pp_ib_stepA.sh",
+    "sha256": "a6c2caecc6fabd289b1564ef645342189df6aaa72e4c4c03754108d7c930c349"
+  },
+  {
+    "file": "core/scripts/pp_ib_diag_utils.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/pp_ib_diag_utils.py",
+    "sha256": "cf8f532d80705371d7cd9e501fbcf8af1fb87e5bc25f210de691956d40fb8d36"
+  },
+  {
+    "file": "core/scripts/run_twitter2017_ablation_1to4.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_twitter2017_ablation_1to4.sh",
+    "sha256": "d8a5708432098e31c63712e9305b9b8c091c344882b9926d424087cfcb744e54"
+  },
+  {
+    "file": "core/scripts/auto_grid_search.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/auto_grid_search.py",
+    "sha256": "de5dc40b59f53d4108daa15e93f7c3c41a7c0f844e1c23913bbd040504f3f6f7"
+  },
+  {
+    "file": "core/scripts/run_d1b_dc08_m06_extra_seeds.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_d1b_dc08_m06_extra_seeds.sh",
+    "sha256": "b794eea875fbfc948cc61c2af28c995f74774a91e0851ce921581a9fe24ab697"
+  },
+  {
+    "file": "core/scripts/summarize_partial_ot_multiseed.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/summarize_partial_ot_multiseed.py",
+    "sha256": "ecba0174569cf4209a80bedcd7e4c4bb4c99ef30dfd57d0f4cf75b0b03ece989"
+  },
+  {
+    "file": "core/scripts/run_pp_ib_beta_sweep.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pp_ib_beta_sweep.sh",
+    "sha256": "34c2c554ee4c158047337a7eb1a0af46ce4b5727a975560279b823a10f420f5a"
+  },
+  {
+    "file": "core/scripts/run_b2_winning_seed123.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_b2_winning_seed123.sh",
+    "sha256": "661a87e72e4028eaeff11f5306ad22d5fee4e815aa01b6c1b7370ca82505dc86"
+  },
+  {
+    "file": "core/scripts/run_d3_dc10_m05_ema9995_seed42.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_d3_dc10_m05_ema9995_seed42.sh",
+    "sha256": "9d43dea6a923b26ad2bf074fb4fff92f1a5adea7b3c6acbd21fe9cea53dfcf48"
+  },
+  {
+    "file": "core/scripts/run_b2_dc10_m045_seed42.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_b2_dc10_m045_seed42.sh",
+    "sha256": "e3b2f96d24e6051012060cdf8b29aad8673f14f2ad19470d642bdb9d8a00bc80"
+  },
+  {
+    "file": "core/scripts/plot_motivation_ot.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/plot_motivation_ot.py",
+    "sha256": "c1d601e6bb340e1926af131531611ece70c9b170e6f6422ecfb1fd8f3dc65dda"
+  },
+  {
+    "file": "core/scripts/smoke_per_class_eval.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/smoke_per_class_eval.sh",
+    "sha256": "9d2795318bc212e2be05db28743882fb04a141c48e42ce891d274dc5c73b1498"
+  },
+  {
+    "file": "core/scripts/setup_twitter2015_images_from_zip.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/setup_twitter2015_images_from_zip.sh",
+    "sha256": "2de12b6307da269b915ac58deee90fc5bb48f7e444293380f535b7fe91efe072"
+  },
+  {
+    "file": "core/scripts/launch_t17_extra_seeds.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/launch_t17_extra_seeds.sh",
+    "sha256": "7b90e8f44fa041283ff48cd407106a8d00b45388da502865713a129206af31ab"
+  },
+  {
+    "file": "core/scripts/run_exp_a1_bias.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_exp_a1_bias.sh",
+    "sha256": "f83c2d9febb2e9f16c46982eb5c414080680fcfed883c0d96ccb52c10a2be0a8"
+  },
+  {
+    "file": "core/scripts/cal_vocab.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/cal_vocab.py",
+    "sha256": "92687fce9d0178e73edea17393b0d5ad072310388d0b28017737a035f4a8d106"
+  },
+  {
+    "file": "core/scripts/run_exp_chain_nohup.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_exp_chain_nohup.sh",
+    "sha256": "fa423552e80ccdc3a8ebbf5f50138160a6a9152abf211130158ec7595484d6e5"
+  },
+  {
+    "file": "core/scripts/run_exp_a3_beta_sweep.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_exp_a3_beta_sweep.sh",
+    "sha256": "10b28563ee84962813c132795e6d6964f2dd5d5b968c40587be48e5ff27a1403"
+  },
+  {
+    "file": "core/scripts/train_multi_seed.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/train_multi_seed.sh",
+    "sha256": "edf1c96686c3984df454706d1e3285a3b9cab7b41f46acc79dcd9ea15c77e29a"
+  },
+  {
+    "file": "core/scripts/monitor_pgmner_vllm.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/monitor_pgmner_vllm.sh",
+    "sha256": "895068195f4a8a87866945cd585f25808252972cbc134a11ea90a4826eab321a"
+  },
+  {
+    "file": "core/scripts/run_all_improvements.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_all_improvements.sh",
+    "sha256": "f25603eb427efa8129949a9a53030386845b7f2025b822aad63df590f24d7ab9"
+  },
+  {
+    "file": "core/scripts/plot_fig3_hparam.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/plot_fig3_hparam.py",
+    "sha256": "53070b887e7172cd97c9101a6881016f2e18e20242e7f2afe33b1505eaf2bdb7"
+  },
+  {
+    "file": "core/scripts/ensemble_predict.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/ensemble_predict.py",
+    "sha256": "caacf6098d944bad4b3c1a5fc45a601c7fe727f94191f5f1b3c458a704224bce"
+  },
+  {
+    "file": "core/scripts/run_exp_baseline.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_exp_baseline.sh",
+    "sha256": "d7a9054a1160f60d41a7b7703325cb7861ec527aa0ad1c26cb9f9cf2a51d94eb"
+  },
+  {
+    "file": "core/scripts/run_b2_winning_vitL14_seed42.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_b2_winning_vitL14_seed42.sh",
+    "sha256": "4d3d3e5d15b56bb98428261159f75b4984b203d0a1a25d66f76955f8ff0c883b"
+  },
+  {
+    "file": "core/scripts/run_qwen35_vllm_desc_all.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_qwen35_vllm_desc_all.sh",
+    "sha256": "c840e2b55bfbd75dfaca1e013128310f39857506186bb0d479692d20da77da23"
+  },
+  {
+    "file": "core/scripts/run_push915_train.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_push915_train.sh",
+    "sha256": "acb8a1d2d6f6d378060b74038293a5eeaa639883a5ecad68e8f8f8fbde363d83"
+  },
+  {
+    "file": "core/scripts/extract_best_ckpt_f1.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/extract_best_ckpt_f1.py",
+    "sha256": "06cc9f5aeffaf6bdace3bf91b72067c7c934fc6a88da8fade60d03ff1bd37d21"
+  },
+  {
+    "file": "core/scripts/run_got_ablation.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_got_ablation.sh",
+    "sha256": "bd91dde18ed3758c597ee34a537a86ae5a864d9f142b6ab7d55684488b21f999"
+  },
+  {
+    "file": "core/scripts/run_phase1_after_1024.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_phase1_after_1024.sh",
+    "sha256": "ba540ba976d6deb9c3d32fd324fd419435c73318285bcbff22a3f5537bd68ba6"
+  },
+  {
+    "file": "core/scripts/parse_train_logs.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/parse_train_logs.py",
+    "sha256": "c51fd62f80ca7199420f3d93848053b700dafd12b4d17218cd858db8bde6b1a6"
+  },
+  {
+    "file": "core/scripts/run_t17_extra_seeds.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_t17_extra_seeds.sh",
+    "sha256": "7969dcc64a9d1ed0982f5eb2e2c99da0adeb386d0630e10aa1abf67afde441ac"
+  },
+  {
+    "file": "core/scripts/process_file.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/process_file.py",
+    "sha256": "28749081e7da432a3b829f41afca2e3f031f2d55cf9488e29c5b1da248318b5b"
+  },
+  {
+    "file": "core/scripts/summarize_phase2.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/summarize_phase2.py",
+    "sha256": "fab5449e60878bad9651b55dc6f9eaef6413821068f33f078fb061b0d3e6d00d"
+  },
+  {
+    "file": "core/scripts/package_ablation_run.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/package_ablation_run.sh",
+    "sha256": "c6a13d0a2a04ac283f496ec9691174565af0d70d703957599b86cb1cd2ef19fd"
+  },
+  {
+    "file": "core/scripts/sanity_check_vision.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/sanity_check_vision.py",
+    "sha256": "d97b75c227a10c81fa3fcfa656ee3e283b4d9ff679f751454fc01b3c4b418484"
+  },
+  {
+    "file": "core/scripts/claude_refinement.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/claude_refinement.py",
+    "sha256": "7f1196c0bee6f8ad70bc960ca102433fc89703fbe865950ac4fe51eea7f09f1d"
+  },
+  {
+    "file": "core/scripts/run_pp_ib_seed_v2.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pp_ib_seed_v2.sh",
+    "sha256": "612eb648df7e752815229511a3022dcdc60bf48dc641890735a8b61024997918"
+  },
+  {
+    "file": "core/scripts/run_pp_ib_pot_otalpha_grid.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_pp_ib_pot_otalpha_grid.sh",
+    "sha256": "426b5e40f7e5ac95d75f1d60c5fcc432ecd16a776d6dab2bdd9a2a59fade9ccf"
+  },
+  {
+    "file": "core/scripts/load_openai_key.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/load_openai_key.sh",
+    "sha256": "0bb0af0799899281c8d9372ab3d23c77178b339a196046db90f48d5c97c0afcc"
+  },
+  {
+    "file": "core/scripts/cleanup_disk_safe.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/cleanup_disk_safe.sh",
+    "sha256": "f5a9355c8305a9a73953a8f5a8df9a6158663065af334487c1127d8f69e30a37"
+  },
+  {
+    "file": "core/scripts/run_twitter2017_got_struct_ablation.sh",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/run_twitter2017_got_struct_ablation.sh",
+    "sha256": "b48bc92800775b5e5111cdb5231de22e3b68afe29af2d0e5c3967f0702a12eed"
+  },
+  {
+    "file": "core/scripts/gpt4v_augmentation.py",
+    "source": "/data/jyx/yixiao/MINER-My/scripts/gpt4v_augmentation.py",
+    "sha256": "c36ba8e0f88ad1251a3bd4f963fbd2bd47c15e6482881b8eaf70eaf3b36c17dd"
+  },
+  {
+    "file": "core/configs/pgmner_vllm_twitter2015.yaml",
+    "source": "/data/jyx/yixiao/MINER-My/configs/pgmner_vllm_twitter2015.yaml",
+    "sha256": "34a7426a719da6485421ec80245256960395f474812303c38cb3f15660e631e4"
+  },
+  {
+    "file": "core/configs/twitter2017_got_identity.yaml",
+    "source": "/data/jyx/yixiao/MINER-My/configs/twitter2017_got_identity.yaml",
+    "sha256": "5303e107365137a9a1eb83938ffef50d2668385edeb19b69a768ff7d51c2f4ca"
+  },
+  {
+    "file": "core/configs/twitter2017_sem_ot.yaml",
+    "source": "/data/jyx/yixiao/MINER-My/configs/twitter2017_sem_ot.yaml",
+    "sha256": "cca4b7ccee56a4124e1d0bf52ee8896000ae002ca011b16309c121b2f7fdb9f4"
+  },
+  {
+    "file": "core/configs/pgmner_vllm_twitter2017.yaml",
+    "source": "/data/jyx/yixiao/MINER-My/configs/pgmner_vllm_twitter2017.yaml",
+    "sha256": "ed8bf6feb89097fbfdff07f74174dc363be306bcaeed3030a843401902c87ed7"
+  },
+  {
+    "file": "core/configs/twitter2017_baseline.yaml",
+    "source": "/data/jyx/yixiao/MINER-My/configs/twitter2017_baseline.yaml",
+    "sha256": "9fa75106e869c7bb869e6f9b23258398d432db64339edc4a8b7857030bb87560"
+  },
+  {
+    "file": "core/configs/twitter2017_got_ones.yaml",
+    "source": "/data/jyx/yixiao/MINER-My/configs/twitter2017_got_ones.yaml",
+    "sha256": "b05e7bf9479a7e9bc0e1d1013582d2b995ba3d87c3f7808e6bd6b1670154bc56"
+  },
+  {
+    "file": "core/configs/twitter2017_got.yaml",
+    "source": "/data/jyx/yixiao/MINER-My/configs/twitter2017_got.yaml",
+    "sha256": "fa1d943b59113fa73704647f2a9b4f3fd2a50df97491de740b2d5a2eb9830afc"
+  },
+  {
+    "file": "core/models/classifier.py",
+    "source": "/data/jyx/yixiao/MINER-My/models/classifier.py",
+    "sha256": "a114f5888e462ddb6b80466f81b8ee2cb7598d0338b9de6b7bb0b952966eadda"
+  },
+  {
+    "file": "core/models/span_extractors.py",
+    "source": "/data/jyx/yixiao/MINER-My/models/span_extractors.py",
+    "sha256": "af8819bab84494325ddad79a3147476bc7520de3742db3f8cd91f108bc82d583"
+  },
+  {
+    "file": "core/models/span_layer.py",
+    "source": "/data/jyx/yixiao/MINER-My/models/span_layer.py",
+    "sha256": "fff642f025a0ba55a615680c9e446786f052f4c86edbee1d9eb4bed2d4bb5a63"
+  },
+  {
+    "file": "core/models/bn_bert_ner_OT_robert.py",
+    "source": "/data/jyx/yixiao/MINER-My/models/bn_bert_ner_OT_robert.py",
+    "sha256": "ce34364f8e25fb361f5432fd273210d0c804647f27199d1d15716a41696eaa6e"
+  },
+  {
+    "file": "core/models/semantic_ot_aligner.py",
+    "source": "/data/jyx/yixiao/MINER-My/models/semantic_ot_aligner.py",
+    "sha256": "4880c2d1e98322e8c63ac09e6b2beb47ad64643394c50fe441fb59f0309d228d"
+  },
+  {
+    "file": "core/models/model_utils.py",
+    "source": "/data/jyx/yixiao/MINER-My/models/model_utils.py",
+    "sha256": "c50d65389cae19b63bf4b8f36746e5b1e593a7b34efaffb4ee16ea774b4b0294"
+  },
+  {
+    "file": "core/models/round2_aux.py",
+    "source": "/data/jyx/yixiao/MINER-My/models/round2_aux.py",
+    "sha256": "4fd439d478c536b7dff2274a99c17c85dc6ead51d36fb0674727b21c7357e05e"
+  },
+  {
+    "file": "core/models/bn_bert_ner_OT_robert_baseline_backup.py",
+    "source": "/data/jyx/yixiao/MINER-My/models/bn_bert_ner_OT_robert_baseline_backup.py",
+    "sha256": "99af8552ba9701a32fae01b829bc31f7583b6a779452af2093603d8ba86f373a"
+  },
+  {
+    "file": "core/models/partial_ot.py",
+    "source": "/data/jyx/yixiao/MINER-My/models/partial_ot.py",
+    "sha256": "6bb9613cb587e19fa0019e535c8bdaf34fe6c64ce19c185880f4ef2327fc952b"
+  },
+  {
+    "file": "core/models/bottleneck.py",
+    "source": "/data/jyx/yixiao/MINER-My/models/bottleneck.py",
+    "sha256": "2874839831022ba7e3777a15f96ef816e36010e6cfe00ff1fd789e47f5c0f19d"
+  },
+  {
+    "file": "core/models/got_cac.py",
+    "source": "/data/jyx/yixiao/MINER-My/models/got_cac.py",
+    "sha256": "1e5d0213ebf19570b25697b0b3f0ea80135dec386576953f2307d87af2a96e72"
+  },
+  {
+    "file": "core/models/MI_estimators.py",
+    "source": "/data/jyx/yixiao/MINER-My/models/MI_estimators.py",
+    "sha256": "e94284b44823e56ef8ea24fe94cb048b867fe0ffa23663d5e7d83e5b81012840"
+  },
+  {
+    "file": "core/models/losses/SupConLoss.py",
+    "source": "/data/jyx/yixiao/MINER-My/models/losses/SupConLoss.py",
+    "sha256": "c7421cbf5cda9b9c2022c7ff2baaeca912d621cda70ea60d290a366769082f95"
+  },
+  {
+    "file": "core/models/losses/dice_loss.py",
+    "source": "/data/jyx/yixiao/MINER-My/models/losses/dice_loss.py",
+    "sha256": "57cecb539b37c485aa24abb407b51ff6f7859ade9446b3c98a17b65003a5a7bb"
+  },
+  {
+    "file": "core/models/losses/crf.py",
+    "source": "/data/jyx/yixiao/MINER-My/models/losses/crf.py",
+    "sha256": "3fd8501c36ff642bf691ab820921ed63c435628dc95a1c46cb77c6371b79e187"
+  },
+  {
+    "file": "core/models/losses/label_smoothing.py",
+    "source": "/data/jyx/yixiao/MINER-My/models/losses/label_smoothing.py",
+    "sha256": "a30ac6ccdd9de3d196b0e405cce81fbe4e9b605553bd5ce73b148d9a6e3b1b12"
+  },
+  {
+    "file": "core/models/losses/focal_loss.py",
+    "source": "/data/jyx/yixiao/MINER-My/models/losses/focal_loss.py",
+    "sha256": "92ca4399cfafbafabc3626a81baf0f43525e69e09d0526b4e5d58455c1170235"
+  },
+  {
+    "file": "core/kais_extension/experiment19_pc_ppib/__init__.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment19_pc_ppib/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "core/kais_extension/experiment5_vee/__init__.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment5_vee/__init__.py",
+    "sha256": "6532709049704a24d01b18e9ae98eaa9030fa95f8a3890d6c1f56550e09e91bf"
+  },
+  {
+    "file": "core/kais_extension/experiment20_overnight_ppib/__init__.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment20_overnight_ppib/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "core/kais_extension/experiment24_literature_guided/continue_after_route_a.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment24_literature_guided/continue_after_route_a.sh",
+    "sha256": "42fe27217bd43b700cd2f0b4993c67f1d006731b12deabd02eab1d24a0a7f1ba"
+  },
+  {
+    "file": "core/kais_extension/experiment24_literature_guided/status_experiment24.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment24_literature_guided/status_experiment24.sh",
+    "sha256": "9861cef9a00cd2281841875e73e3fc8bc16a602c3784305c90f1fac2e331c21b"
+  },
+  {
+    "file": "core/kais_extension/experiment24_literature_guided/run_experiment24.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment24_literature_guided/run_experiment24.sh",
+    "sha256": "9ecd481e95ea123511e356bfb92bf48f9ad09808a106579ec764e11ced5fc938"
+  },
+  {
+    "file": "core/kais_extension/experiment24_literature_guided/stop_experiment24.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment24_literature_guided/stop_experiment24.sh",
+    "sha256": "dc67f5a44dd8686265dfb802d1cb05a2376987dd2e7fe96d8ae299c57a0d2118"
+  },
+  {
+    "file": "core/kais_extension/experiment23_prediction_coupling/run_experiment23.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment23_prediction_coupling/run_experiment23.sh",
+    "sha256": "a064cfe3bf27c019e7a10b1e6547eb6d971749f898429867e9d376e72bdfc38e"
+  },
+  {
+    "file": "core/kais_extension/experiment23_prediction_coupling/status_experiment23.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment23_prediction_coupling/status_experiment23.sh",
+    "sha256": "938c1796375c5c737ac70e57a0fe346de3a0077818c954b1e16cf267eb2c9137"
+  },
+  {
+    "file": "core/kais_extension/experiment23_prediction_coupling/stop_experiment23.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment23_prediction_coupling/stop_experiment23.sh",
+    "sha256": "40d6c064cdfaabde9a21c9251a488999e4e38a97d2a40ee5ad99d0ab915d451a"
+  },
+  {
+    "file": "core/kais_extension/scripts/eval_existing_checkpoint.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/scripts/eval_existing_checkpoint.py",
+    "sha256": "ee48f7b20ab6f6fc18f916486e61291bbf2d8b1ceb6d07226024bca301a78e13"
+  },
+  {
+    "file": "core/kais_extension/scripts/inspect_checkpoint_mass.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/scripts/inspect_checkpoint_mass.py",
+    "sha256": "a70a15103c891ac5009e32c177e171ddfb043b0a07f062869ccf3634d696ca45"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/run_one.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/run_one.py",
+    "sha256": "e7a40b38393e641832deeaacdb0a718c726251d81112bc468b790ba7878467ef"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/status.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/status.py",
+    "sha256": "49b260342e15462d33e6611a9f11189c0242c6476418555527f6e6ceaf8585eb"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/summarize.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/summarize.py",
+    "sha256": "3c6f64149b1bf88b86f52ef087299973d6cdf896c6cff03e024e3d5054ba6010"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/scheduler.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/scheduler.py",
+    "sha256": "9ae6baa76d2147668cb0b66e8aa2027a71210a140b9f6c541ba577e2cbae266a"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/README.md",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/README.md",
+    "sha256": "d9302ef718b81d2ee6df0c816b25168b1c1cff5d12e1b901f104b19563b4e3f1"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/__init__.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/__init__.py",
+    "sha256": "75ee264bedc1eec402f34fd278f75b5dd634b22df0fe3fa5c09734f4a5425f43"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/submit.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/submit.py",
+    "sha256": "8afb990c7b51c4f18910680c6a8705578d6128ebcac093e1b1766805342b89a9"
+  },
+  {
+    "file": "core/kais_extension/experiment22_module_analysis/scripts/run_gradient_path_audit.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment22_module_analysis/scripts/run_gradient_path_audit.py",
+    "sha256": "8d801f8f58cf0302e0f5ea9dda288b4b6010e0795508aee4813dd5554eb482fe"
+  },
+  {
+    "file": "core/kais_extension/experiment22_module_analysis/scripts/common.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment22_module_analysis/scripts/common.py",
+    "sha256": "26463267237857e2db524f3ec849c52377a82aefe8576c74e1a33d32d7fce319"
+  },
+  {
+    "file": "core/kais_extension/experiment22_module_analysis/scripts/run_ot_analysis.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment22_module_analysis/scripts/run_ot_analysis.py",
+    "sha256": "8fe2a66698473a9e864cca993a371ec09ee89c646cbcf310b232f27867de314b"
+  },
+  {
+    "file": "core/kais_extension/experiment22_module_analysis/scripts/run_kl_short_screen.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment22_module_analysis/scripts/run_kl_short_screen.sh",
+    "sha256": "e7d6d8d298a9305065717b33da91778b2cf782619737932a2a0adab4ce714c56"
+  },
+  {
+    "file": "core/kais_extension/experiment22_module_analysis/scripts/finalize_when_training_finishes.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment22_module_analysis/scripts/finalize_when_training_finishes.sh",
+    "sha256": "2243b60f34d4ff31e09fd4d95b88384f57e8813eba9e5f25ffdcf2d73bea42a6"
+  },
+  {
+    "file": "core/kais_extension/experiment22_module_analysis/scripts/make_figures_and_report.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment22_module_analysis/scripts/make_figures_and_report.py",
+    "sha256": "94f32e06ebad83125f84e56b54389ea676b9d4d591edc86d3860153528df3499"
+  },
+  {
+    "file": "core/kais_extension/experiment22_module_analysis/scripts/finalize_exp22.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment22_module_analysis/scripts/finalize_exp22.py",
+    "sha256": "3a55f7901bebd9ba628ada2c1fef3b6fe2f00b0beb88832bedbb21c99ada11bf"
+  },
+  {
+    "file": "core/kais_extension/experiment7_lightweight/scripts/run_7a_decoder_calibration.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment7_lightweight/scripts/run_7a_decoder_calibration.py",
+    "sha256": "93f1d7d131e28ab13304c01119009661d376492e5e4908db6af32a91e82b7425"
+  },
+  {
+    "file": "core/kais_extension/experiment7_lightweight/scripts/run_7b_uncertainty_vee.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment7_lightweight/scripts/run_7b_uncertainty_vee.py",
+    "sha256": "e0a25b8d783b5b58a2cf35d2081c9926be168a69cab9c1a14d458363212d4545"
+  },
+  {
+    "file": "core/kais_extension/experiment7_lightweight/models/ug_vee.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment7_lightweight/models/ug_vee.py",
+    "sha256": "886193582576d87be015ec6161793a3dff1ff7dfbd72ccde72ffaede13b1a6f2"
+  },
+  {
+    "file": "core/kais_extension/experiment7_lightweight/models/__init__.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment7_lightweight/models/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "core/kais_extension/experiment12_grounder_screening/scripts/analyze_existing_e2e_artifact.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment12_grounder_screening/scripts/analyze_existing_e2e_artifact.py",
+    "sha256": "c9d6cd5dc20d37dab5efbea7df8f19c26b455961f847ab719a54d09b00bf2558"
+  },
+  {
+    "file": "core/kais_extension/experiment16_ppib_analysis/scripts/analyze_ppib.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment16_ppib_analysis/scripts/analyze_ppib.py",
+    "sha256": "5aba87a63aa1212c2de5894ecf49a3369331f8269c9f99251c069c12e01f4ad4"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/stage3/stop_stage3.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/stage3/stop_stage3.sh",
+    "sha256": "bf93fe62f698b029efe6871a323f84844995369bf6e29f6d858bd0b232e43450"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/stage3/run_stage3.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/stage3/run_stage3.sh",
+    "sha256": "98b9050fcc1d232638e623a0a06019ac59938916be5bbf6f90d7214daba7b744"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/stage3/status_stage3.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/stage3/status_stage3.sh",
+    "sha256": "9450f5c5bb674186cba174bc312e69b7d328670f0c9ccbaf742e79d76aef0742"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/stage2/status_stage2.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/stage2/status_stage2.py",
+    "sha256": "6b0e76c235f160349a48980227ac7d61cb286e1cf11ad49a6e7c2f96f894e7fb"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/stage2/execute_stage2.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/stage2/execute_stage2.py",
+    "sha256": "518f8dca31b2b1aba26cb259727f2eafcf73ac6fbe99a0ff777d388c5878d73f"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/stage2/stop_stage2.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/stage2/stop_stage2.sh",
+    "sha256": "9d4adc5cc9cb472290f7d96cc2d82c6cba4678ced2a9941f174dfef782bce33b"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/stage2/run_stage2.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/stage2/run_stage2.sh",
+    "sha256": "c25b0c72f18f734b4e01de1101a2651a95648ce27781841b88f597bd8ba7c2b9"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/stage2/prepare_stage2.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/stage2/prepare_stage2.py",
+    "sha256": "08066f1f9ef4d40bdac145e2e44744a68f456701405116db97329f2cfc0917c5"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/stage2/summarize_stage2.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/stage2/summarize_stage2.py",
+    "sha256": "3278cf6c93722e2d28b01445c4962392e992da2b292afcd77dabcdca2f6e8a29"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/scripts/start_background.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/scripts/start_background.sh",
+    "sha256": "0444574f50164e14446958d31f099d366dfd07e977dfed325582957ed82b1d59"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/scripts/smoke_test.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/scripts/smoke_test.py",
+    "sha256": "5f755e099ee8e28fb7768b8361cf8402f555a26fc82dfb12fa38f5098c25173c"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/scripts/gradient_audit.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/scripts/gradient_audit.py",
+    "sha256": "ff8170f1ffd1f69cc50fd7af673b99b4c963244ad73f99a55c4a56c4bb5fb9ac"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/configs/gpu_policy.json",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/configs/gpu_policy.json",
+    "sha256": "5e9c3da0b715fe05879788f12d77e8c5a0f7adeed89bbc5febbcc6b26f869888"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/configs/routes.json",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/configs/routes.json",
+    "sha256": "71dc420052fc8a765c60a86d09d73f7058229289650948837d22d73010bab88b"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/models/ppib_models.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/models/ppib_models.py",
+    "sha256": "08681514ee2b54bfe8cba4d69f2639f8b31119beed3fc0c77dd468a11ad62e80"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/models/ot_backends.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/models/ot_backends.py",
+    "sha256": "83342fc26ba4a761f14ecf263529caa00140a034600e0e7d342ca36a959cb472"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/models/__init__.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/models/__init__.py",
+    "sha256": "f06361ba86a7c25c84ab080ac030bb1c3aa282ac020fcc7bead56e3e7a845f33"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/stage2/configs/stage2_matrix.yaml",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/stage2/configs/stage2_matrix.yaml",
+    "sha256": "43c6570ed131ff6eae06d20d70c6f2dc68ea840ba1616a1977d8a2bf2df696be"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/stage3/scripts/prepare_stage3.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/stage3/scripts/prepare_stage3.py",
+    "sha256": "3e77e692601916132d6649a962f7e5668a9d6c29bdc5df05535b4457da941801"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/stage3/scripts/scheduler_stage3.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/stage3/scripts/scheduler_stage3.py",
+    "sha256": "39458983abadfc6905aaba8cd58d286995ef061a61b4ac2f62c58cd10a4c9687"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/stage3/scripts/run_full_training.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/stage3/scripts/run_full_training.py",
+    "sha256": "7663e20d7f390ac6d76a3f7de9906960c34915b2716662ba16cf796c04d390ff"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/stage3/scripts/execute_stage3.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/stage3/scripts/execute_stage3.py",
+    "sha256": "c8aed0b16fdef90658fc553b17541a3850a99c073fe9e1490993d3bae8f633ac"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/stage3/scripts/summarize_stage3.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/stage3/scripts/summarize_stage3.py",
+    "sha256": "496d9d059f1841077ab901853d7dc11a864cb0d9b3d8420a2a4a60caf9108f5c"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/stage3/configs/stage3_matrix.json",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/stage3/configs/stage3_matrix.json",
+    "sha256": "ede65aa045ab4378414e73386802d82ca83e10cfaa08b78384df104550b172a2"
+  },
+  {
+    "file": "core/kais_extension/experiment_factory/stage3/configs/gpu_policy.json",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment_factory/stage3/configs/gpu_policy.json",
+    "sha256": "4ee8ce5811075eeed5c0b03b922e875bb43386b891b55ec365d2ea173181d13d"
+  },
+  {
+    "file": "core/kais_extension/literature_feasibility_review/scripts/analyze_feature_separability.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/literature_feasibility_review/scripts/analyze_feature_separability.py",
+    "sha256": "546bb8766effad0a0818678a86d2d0115c6844e16faf8af3af7d5d946daa16aa"
+  },
+  {
+    "file": "core/kais_extension/experiment23_prediction_coupling/scripts/run_one.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment23_prediction_coupling/scripts/run_one.py",
+    "sha256": "831995b5fe0c18cac208b2a649b54374c472e52cc3165939b14a98fa598b6d4c"
+  },
+  {
+    "file": "core/kais_extension/experiment23_prediction_coupling/scripts/summarize.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment23_prediction_coupling/scripts/summarize.py",
+    "sha256": "3811fc453627aaa3bec5df4d0a2a19adb83193726e7748fb88badf5216199a0e"
+  },
+  {
+    "file": "core/kais_extension/experiment23_prediction_coupling/scripts/scheduler.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment23_prediction_coupling/scripts/scheduler.py",
+    "sha256": "46ba74e034bb8e81922e53567bd4d54dba0abef0ac397269b84e437285467b7b"
+  },
+  {
+    "file": "core/kais_extension/experiment23_prediction_coupling/scripts/execute.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment23_prediction_coupling/scripts/execute.py",
+    "sha256": "029cbb3534fa46279bf77e48bd2f627b01d68e3942d395e0f9410c9656646c3b"
+  },
+  {
+    "file": "core/kais_extension/experiment23_prediction_coupling/configs/gpu_policy.json",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment23_prediction_coupling/configs/gpu_policy.json",
+    "sha256": "c215dabec6b561869c9f063ea527dfc4a4c71c7cd112cbfdf7fb75cf6d6f5d81"
+  },
+  {
+    "file": "core/kais_extension/experiment23_prediction_coupling/configs/experiment_matrix.json",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment23_prediction_coupling/configs/experiment_matrix.json",
+    "sha256": "aeb7a2fd9bca9b8a20bcf42d7ccd92ed5522813b5df37ab562565eba7b25b5ea"
+  },
+  {
+    "file": "core/kais_extension/experiment23_prediction_coupling/models/e23_model.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment23_prediction_coupling/models/e23_model.py",
+    "sha256": "caf83c14b9335d63d5fbce2da8848c609d3f6abf8153e9613ac892b300889342"
+  },
+  {
+    "file": "core/kais_extension/experiment23_prediction_coupling/models/__init__.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment23_prediction_coupling/models/__init__.py",
+    "sha256": "d691622fcddb8b6692abb76beb4ca463a99b6d42fb817cfe04197804f7afae91"
+  },
+  {
+    "file": "core/kais_extension/experiment24_literature_guided/scripts/run_grounding_route.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment24_literature_guided/scripts/run_grounding_route.py",
+    "sha256": "d1373fedf0339ba44bf6149eb4a547f9c86c9caf29222cfcc8ceda61629c1a67"
+  },
+  {
+    "file": "core/kais_extension/experiment24_literature_guided/scripts/wait_and_run_posthoc.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment24_literature_guided/scripts/wait_and_run_posthoc.py",
+    "sha256": "3fe88bf019a2ce1ad2926d725fcbf8010d06d69e8c17c8464b26b66b09eba4d4"
+  },
+  {
+    "file": "core/kais_extension/experiment24_literature_guided/scripts/posthoc_mechanism.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment24_literature_guided/scripts/posthoc_mechanism.py",
+    "sha256": "8e441e8522810240e7afec24926b47f2fc06b4dab252da7d4de8cc8906058599"
+  },
+  {
+    "file": "core/kais_extension/experiment24_literature_guided/scripts/summarize.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment24_literature_guided/scripts/summarize.py",
+    "sha256": "c8696c5b6411491240ac28d1b6109044e0e26feaeb8202d3e127bd8ce482530d"
+  },
+  {
+    "file": "core/kais_extension/experiment24_literature_guided/scripts/scheduler.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment24_literature_guided/scripts/scheduler.py",
+    "sha256": "47792fad6061e3f722e5b7446830b148c453aeb4752fb4a69603807143aff2b9"
+  },
+  {
+    "file": "core/kais_extension/experiment24_literature_guided/scripts/run_twitter_route.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment24_literature_guided/scripts/run_twitter_route.py",
+    "sha256": "21a4ead2a81d6c88b0b17538e5fd3810b394074cf2fc75d40a27064660236bfd"
+  },
+  {
+    "file": "core/kais_extension/experiment24_literature_guided/configs/gpu_policy.json",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment24_literature_guided/configs/gpu_policy.json",
+    "sha256": "c74026b6e01574e9cb77a24a778e91587d5b8bb19f9d0a0e24cfadae869570ed"
+  },
+  {
+    "file": "core/kais_extension/experiment24_literature_guided/configs/experiment_matrix.json",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment24_literature_guided/configs/experiment_matrix.json",
+    "sha256": "1af9c2fbaa3e262eba16fd45c127afd9e30a38267440df84690d882d154a9cb1"
+  },
+  {
+    "file": "core/kais_extension/experiment24_literature_guided/models/__init__.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment24_literature_guided/models/__init__.py",
+    "sha256": "7e30f1cdd5c99d4516f41f42b79bc7646bb56e0f7f38d07fdb860e22c9357e62"
+  },
+  {
+    "file": "core/kais_extension/experiment24_literature_guided/models/e24_model.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment24_literature_guided/models/e24_model.py",
+    "sha256": "b046f13cd1d4c14000167ed33c729e5f16f46b069bc9574cb5b3f9f3d9ef327b"
+  },
+  {
+    "file": "core/kais_extension/experiment9_gmner_audit/scripts/audit_gmner_data.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment9_gmner_audit/scripts/audit_gmner_data.py",
+    "sha256": "974558d2b32c2a59a2127753bcf350305965c9ca9fc97c0dd5f798c05de5d90a"
+  },
+  {
+    "file": "core/kais_extension/experiment9_gmner_audit/scripts/prepare_gmner_pgmner_format.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment9_gmner_audit/scripts/prepare_gmner_pgmner_format.py",
+    "sha256": "069b0eac7fe039e0f96ee2f04b76119be9b4f75d268c736ea41c50257d22074e"
+  },
+  {
+    "file": "core/kais_extension/experiment9_gmner_audit/scripts/visualize_transport_cases.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment9_gmner_audit/scripts/visualize_transport_cases.py",
+    "sha256": "68da24000135ead90cdbe5626b29e76100c26a8e34f45381e2d82385cc56345b"
+  },
+  {
+    "file": "core/kais_extension/experiment9_gmner_audit/scripts/postprocess_grounding_audit.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment9_gmner_audit/scripts/postprocess_grounding_audit.py",
+    "sha256": "6a56b27912dc14bbfab87959d7ece1649be7c6c28c435d5be0ffd2c88252a3f8"
+  },
+  {
+    "file": "core/kais_extension/experiment9_gmner_audit/scripts/run_gmner_transport_audit.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment9_gmner_audit/scripts/run_gmner_transport_audit.py",
+    "sha256": "84b88b9b17eed5a48667c951ee25988d1fda76a6a3cedb873607e28f830d3e7a"
+  },
+  {
+    "file": "core/kais_extension/experiment3_budget_landscape/scripts/eval_budget_landscape.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment3_budget_landscape/scripts/eval_budget_landscape.py",
+    "sha256": "684c1bd6270fe038a76928b63e7b633e15e03bd205a560812bf8ef06f41b192c"
+  },
+  {
+    "file": "core/kais_extension/experiment3_budget_landscape/scripts/recompute_relevance_and_report.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment3_budget_landscape/scripts/recompute_relevance_and_report.py",
+    "sha256": "0ebfb858d89a0507651dd802f5afdf9d8524058d70ba19d527a073b271d16afa"
+  },
+  {
+    "file": "core/kais_extension/experiment21_gmner_validation/scripts/rescore_from_caches.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment21_gmner_validation/scripts/rescore_from_caches.py",
+    "sha256": "ea1796f1f53a88d8d8cc9c81a654449c73a96f10fa8ad251d4fc21f164cab400"
+  },
+  {
+    "file": "core/kais_extension/experiment21_gmner_validation/scripts/audit_and_validate.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment21_gmner_validation/scripts/audit_and_validate.py",
+    "sha256": "552013f4b26c8cf02f75cb7167d6f910fc32a84c51b72213d8913977f6dd4a4e"
+  },
+  {
+    "file": "core/kais_extension/experiment10_explicit_grounding/scripts/run_exp10_grounding.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment10_explicit_grounding/scripts/run_exp10_grounding.py",
+    "sha256": "2b8bcd3fe04580be7dd10c1276b4a7478697bd231b17fc5f0e635350d5cb39dd"
+  },
+  {
+    "file": "core/kais_extension/experiment10_explicit_grounding/scripts/visualize_exp10_entity.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment10_explicit_grounding/scripts/visualize_exp10_entity.py",
+    "sha256": "b21b4600d40993245ea5016ba16d342e3357f6bade9228a175cc68bd8386c30d"
+  },
+  {
+    "file": "core/kais_extension/experiment6_checkpoint_vee/scripts/run_experiment6_checkpoint_vee.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment6_checkpoint_vee/scripts/run_experiment6_checkpoint_vee.py",
+    "sha256": "54a724059dbe0301d5cfa0be965ca14d085f7de320796a0d24ced6fce9a552ca"
+  },
+  {
+    "file": "core/kais_extension/experiment6_checkpoint_vee/scripts/run_experiment6_sequence.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment6_checkpoint_vee/scripts/run_experiment6_sequence.sh",
+    "sha256": "99bc62375383c9d8cbb0e52045f8d140fe6fea9dc4435ac062ea579bc74561e8"
+  },
+  {
+    "file": "core/kais_extension/experiment2_mass_audit/scripts/check_s_gradient.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment2_mass_audit/scripts/check_s_gradient.py",
+    "sha256": "3611af85440c35dcacc1fa09c051fc374a466937c756f0c980643b124cfe73c5"
+  },
+  {
+    "file": "core/kais_extension/experiment2_mass_audit/scripts/inventory_checkpoint_masses.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment2_mass_audit/scripts/inventory_checkpoint_masses.py",
+    "sha256": "91aa8b7a434cf3532367d6a1be4564c2543ffc269667ad9198873b3b11c831f5"
+  },
+  {
+    "file": "core/kais_extension/experiment2_mass_audit/scripts/search_mass_claims.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment2_mass_audit/scripts/search_mass_claims.py",
+    "sha256": "4480fb5655bc2977815a4ef48efbf52b62ed0bbc10af2ae8c95b4792801d9957"
+  },
+  {
+    "file": "core/kais_extension/experiment2_mass_audit/scripts/extract_s_trajectory.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment2_mass_audit/scripts/extract_s_trajectory.py",
+    "sha256": "2971373435149ed630db49fe49935f859705d4668563d2399847e934f995d8e6"
+  },
+  {
+    "file": "core/kais_extension/experiment16c_ppib_audit/scripts/run_gradient_audit.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment16c_ppib_audit/scripts/run_gradient_audit.py",
+    "sha256": "1dfe5e7ffb9e568dc55152addb861e9c2b26a928edce2c75cff5be0d2924328d"
+  },
+  {
+    "file": "core/kais_extension/experiment16c_ppib_audit/scripts/run_representation_audit.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment16c_ppib_audit/scripts/run_representation_audit.py",
+    "sha256": "5891b3dcd8525a27eef6bf161bc0aedb49da97512c2dae1114d7e81d2df5ff0b"
+  },
+  {
+    "file": "core/kais_extension/experiment16c_ppib_audit/scripts/summarize_and_plot.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment16c_ppib_audit/scripts/summarize_and_plot.py",
+    "sha256": "cd6ef84614a0cd4a7ce973c32b50a0644791c729af8b7e5d226d0e318c25b601"
+  },
+  {
+    "file": "core/kais_extension/experiment25_reliability_counterfactual/scripts/analyze_audit.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment25_reliability_counterfactual/scripts/analyze_audit.py",
+    "sha256": "36cb60957f0604c674f3bfdeac62506b3f8892a52c1549661c6d98b5979b5a2b"
+  },
+  {
+    "file": "core/kais_extension/experiment25_reliability_counterfactual/scripts/extract_counterfactual_scores.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment25_reliability_counterfactual/scripts/extract_counterfactual_scores.py",
+    "sha256": "93631b719e29ce5ca323a13da43519b02d2018b21430a7ebf6d3a40241737f42"
+  },
+  {
+    "file": "core/kais_extension/experiment20_overnight_ppib/scripts/run_one.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment20_overnight_ppib/scripts/run_one.py",
+    "sha256": "56561903c8a46d8b81b75b55a2399f8d1fc669d52a6fe9ab8026d0ad1a1d2a3d"
+  },
+  {
+    "file": "core/kais_extension/experiment20_overnight_ppib/scripts/qualifies_control.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment20_overnight_ppib/scripts/qualifies_control.py",
+    "sha256": "4ec32af7b56ab33d2d709c178d8de86760051984484facd2d9d6adf2cde1320b"
+  },
+  {
+    "file": "core/kais_extension/experiment20_overnight_ppib/scripts/summarize.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment20_overnight_ppib/scripts/summarize.py",
+    "sha256": "bcea2cf35bbccba874c27febffb65a08f69320350a97f2bf8033ccd5cd757bf2"
+  },
+  {
+    "file": "core/kais_extension/experiment20_overnight_ppib/scripts/run_overnight.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment20_overnight_ppib/scripts/run_overnight.sh",
+    "sha256": "11957545a504a03628f05e14153748e1add4d9c1ef4bfdb9bfcf0f1c8df7a4b8"
+  },
+  {
+    "file": "core/kais_extension/experiment20_overnight_ppib/configs/experiment_matrix.json",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment20_overnight_ppib/configs/experiment_matrix.json",
+    "sha256": "d9729d4a04ecdc457681f4c1ad973e91ce883e8058f5ec37998b898dbb991466"
+  },
+  {
+    "file": "core/kais_extension/experiment20_overnight_ppib/models/exp20_model.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment20_overnight_ppib/models/exp20_model.py",
+    "sha256": "55e177c9c546fd65aa5ba3e640799a51b3bee604c63fbf70faffc6db97e6bca9"
+  },
+  {
+    "file": "core/kais_extension/experiment20_overnight_ppib/models/__init__.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment20_overnight_ppib/models/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "core/kais_extension/experiment13_oracle_qwen_grounding/scripts/compute_matched_spatial_priors.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment13_oracle_qwen_grounding/scripts/compute_matched_spatial_priors.py",
+    "sha256": "6c2bb9b48c33c7ea6814228fe4b44af2c4fd8d1085440d060b3576c58054c323"
+  },
+  {
+    "file": "core/kais_extension/experiment13_oracle_qwen_grounding/scripts/build_dev_subset.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment13_oracle_qwen_grounding/scripts/build_dev_subset.py",
+    "sha256": "21699d5d97db1afd80743582bafe85d68a534a9265db2b7a510e8b69a2ca5604"
+  },
+  {
+    "file": "core/kais_extension/experiment13_oracle_qwen_grounding/scripts/run_full_screening.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment13_oracle_qwen_grounding/scripts/run_full_screening.sh",
+    "sha256": "6cda1420c457fea69d4f73fedc160b0ca65f7e3a3daeab41a1d40c186bfe51d1"
+  },
+  {
+    "file": "core/kais_extension/experiment13_oracle_qwen_grounding/scripts/run_oracle_qwen_grounding.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment13_oracle_qwen_grounding/scripts/run_oracle_qwen_grounding.py",
+    "sha256": "b9aefd67b450a99a770d8e4d82f5bb7d294ce199792230c815b113334e459fa6"
+  },
+  {
+    "file": "core/kais_extension/experiment5_vee/scripts/run_experiment5_sequence_nowait.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment5_vee/scripts/run_experiment5_sequence_nowait.sh",
+    "sha256": "4d17698089246dbde6f0d12ee531c16c256294f25a5f9e911b4addf0076bd612"
+  },
+  {
+    "file": "core/kais_extension/experiment5_vee/scripts/verify_vee_modules.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment5_vee/scripts/verify_vee_modules.py",
+    "sha256": "06f296c249f51a1939eaf9e204ce60b0a7b6df3e2ee99dc6fa9ac0efface298c"
+  },
+  {
+    "file": "core/kais_extension/experiment5_vee/scripts/wait_for_idle_gpu.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment5_vee/scripts/wait_for_idle_gpu.sh",
+    "sha256": "208cb11944623289a518ba6c6f7c9353169ced74ad7cc9e9330c4ab20801b433"
+  },
+  {
+    "file": "core/kais_extension/experiment5_vee/scripts/gpu_forward_backward_smoke.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment5_vee/scripts/gpu_forward_backward_smoke.py",
+    "sha256": "a9acc7f3addb0808b82f138f9ace929532dae543dab448bc6d13e56cb869fbc9"
+  },
+  {
+    "file": "core/kais_extension/experiment5_vee/scripts/run_experiment5_model.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment5_vee/scripts/run_experiment5_model.py",
+    "sha256": "793191db8f378f0727b372669ae5bca42a175534729c73f0a29698586f7a0ce2"
+  },
+  {
+    "file": "core/kais_extension/experiment5_vee/scripts/summarize_screening.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment5_vee/scripts/summarize_screening.py",
+    "sha256": "a663037995849e6d0e33e565d44327ac94e7bb575cb84af0b127b7cb2055ecde"
+  },
+  {
+    "file": "core/kais_extension/experiment5_vee/scripts/run_experiment5_sequence.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment5_vee/scripts/run_experiment5_sequence.sh",
+    "sha256": "7fdb131bab0a7a9d9429ac218e5c07ea5dff34c6dfd4a0e3117755065f921357"
+  },
+  {
+    "file": "core/kais_extension/experiment5_vee/configs/vee_mean_seed42.json",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment5_vee/configs/vee_mean_seed42.json",
+    "sha256": "26b7965733b0c9e109b7e7cfb47e83c663499110ef8374bf30349de994abb7c6"
+  },
+  {
+    "file": "core/kais_extension/experiment5_vee/configs/vee_gated_attention_seed42.json",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment5_vee/configs/vee_gated_attention_seed42.json",
+    "sha256": "d8a41e7877dc17aceeb1aacfa0b964a880abc2f8436796a039d54bdf21f0eff1"
+  },
+  {
+    "file": "core/kais_extension/experiment5_vee/configs/vee_attention_seed42.json",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment5_vee/configs/vee_attention_seed42.json",
+    "sha256": "242422f15eafe3cdd92ecf4ab26d71147c3ea321a8c5c8f4b1bf8f005f12ab6f"
+  },
+  {
+    "file": "core/kais_extension/experiment5_vee/configs/pgmner_baseline_seed42.json",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment5_vee/configs/pgmner_baseline_seed42.json",
+    "sha256": "d1d2955fb8a438654432ad13d85ed45ce49b027a3d55e68a9b0e9ee3e0a0176d"
+  },
+  {
+    "file": "core/kais_extension/experiment5_vee/models/visual_evidence_enhancer.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment5_vee/models/visual_evidence_enhancer.py",
+    "sha256": "c62dc27d6a8e9ad47488a9ced68ef63b7fb67bea4582e14136ba0481e12544e3"
+  },
+  {
+    "file": "core/kais_extension/experiment5_vee/models/pgmner_vee.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment5_vee/models/pgmner_vee.py",
+    "sha256": "4df573f3544873c786e179f3e02a8a462a4f812defc3bddf93e80a48f7416ab5"
+  },
+  {
+    "file": "core/kais_extension/experiment5_vee/models/__init__.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment5_vee/models/__init__.py",
+    "sha256": "541c979c4359009267474d513bf271d505a0d9b677a0a78340c055b929612234"
+  },
+  {
+    "file": "core/kais_extension/experiment14_gmner_integration/scripts/evaluate_integration.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment14_gmner_integration/scripts/evaluate_integration.py",
+    "sha256": "54bfee5af76a0bbcf4a9942fc85b2ce2042f3f217d1ab2510ad67370e8003fcc"
+  },
+  {
+    "file": "core/kais_extension/experiment14_gmner_integration/scripts/calibrate_entity_confidence.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment14_gmner_integration/scripts/calibrate_entity_confidence.py",
+    "sha256": "33663f98137b15e9be66d2ee04832f562f2253b84ff39de12f03162abec80765"
+  },
+  {
+    "file": "core/kais_extension/experiment14_gmner_integration/scripts/run_qwen_q2_cache.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment14_gmner_integration/scripts/run_qwen_q2_cache.py",
+    "sha256": "9068ca9c6ec6a9d2682dfb5b3f1ce363984a2d748fd1ab6cc7291c02ffd920f5"
+  },
+  {
+    "file": "core/kais_extension/experiment14_gmner_integration/scripts/audit_mapping.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment14_gmner_integration/scripts/audit_mapping.py",
+    "sha256": "4e19970a2cc1e15fa1c3ca724c174ce17a8601ba57fa47e8d897822fa6a3f3fa"
+  },
+  {
+    "file": "core/kais_extension/experiment14_gmner_integration/scripts/analyze_results.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment14_gmner_integration/scripts/analyze_results.py",
+    "sha256": "4708be8b5b69d95f6735626e2ca8e7e8aa4c46ce26d012c73bcfd64162b5dc09"
+  },
+  {
+    "file": "core/kais_extension/experiment14_gmner_integration/scripts/extract_predicted_entities.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment14_gmner_integration/scripts/extract_predicted_entities.py",
+    "sha256": "3d291de3fe68beb98e4021d13ff9bd417779b534a690a90e0df2fd88b6911b0a"
+  },
+  {
+    "file": "core/kais_extension/experiment16b_ppib_repair/scripts/run_repair.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment16b_ppib_repair/scripts/run_repair.py",
+    "sha256": "af87869d9cdc2b3da7593004543e920785455a18393f7daaf4858693ec24ddec"
+  },
+  {
+    "file": "core/kais_extension/experiment16b_ppib_repair/scripts/diagnose_gradients.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment16b_ppib_repair/scripts/diagnose_gradients.py",
+    "sha256": "b3948b9a10c33183280dd2cca65c4849de39dd46358dd3a693582153d11dbcd1"
+  },
+  {
+    "file": "core/kais_extension/experiment16b_ppib_repair/scripts/dual_gate_probe.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment16b_ppib_repair/scripts/dual_gate_probe.py",
+    "sha256": "3f20958b9cebe77f47ffe8b6ccb29ba15fcd3b9e59ffd3b28d7b33ed72f0c451"
+  },
+  {
+    "file": "core/kais_extension/experiment16b_ppib_repair/scripts/run_repair_a.sh",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment16b_ppib_repair/scripts/run_repair_a.sh",
+    "sha256": "46c78f87c2c30e3aebde0b6ac42666c73761638d41824e45cf680745f3388a81"
+  },
+  {
+    "file": "core/kais_extension/experiment16b_ppib_repair/configs/repair_a.json",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment16b_ppib_repair/configs/repair_a.json",
+    "sha256": "84e5874fa299b00fa06e41fb2d749359bf4f349566c8cc1520d98b325e5e6580"
+  },
+  {
+    "file": "core/kais_extension/experiment11_patch_grounding/scripts/run_exp11_patch_grounding.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment11_patch_grounding/scripts/run_exp11_patch_grounding.py",
+    "sha256": "4533a2414daf5546e5b814b0683148bfa264c256439c8ff3cd120097bc63edc4"
+  },
+  {
+    "file": "core/kais_extension/experiment4_visual_mechanism/scripts/run_visual_mechanism_audit.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment4_visual_mechanism/scripts/run_visual_mechanism_audit.py",
+    "sha256": "0217b5358fa893c516e2e6d16f0d529ccb0930f6134b5b49221852995a53ef06"
+  },
+  {
+    "file": "core/kais_extension/experiment19_pc_ppib/scripts/audit_multiseed.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment19_pc_ppib/scripts/audit_multiseed.py",
+    "sha256": "268a53751174c0822cf2c6a0a2bbec8d48f58292e8b2dd5bcf231e0a1405b09f"
+  },
+  {
+    "file": "core/kais_extension/experiment19_pc_ppib/scripts/run_pc_ppib_short.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment19_pc_ppib/scripts/run_pc_ppib_short.py",
+    "sha256": "1f52834ac3574e37d22147cedc7073cd82e9160bc1600a210961c9cfe49e992c"
+  },
+  {
+    "file": "core/kais_extension/experiment19_pc_ppib/scripts/check_best_residual.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment19_pc_ppib/scripts/check_best_residual.py",
+    "sha256": "52281e4826f7dbc7ddbce9696f9aa9ab38d9d18720749c63763b4fd2472a598b"
+  },
+  {
+    "file": "core/kais_extension/experiment19_pc_ppib/scripts/run_pc_ppib_smoke.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment19_pc_ppib/scripts/run_pc_ppib_smoke.py",
+    "sha256": "3619afb18aae3a7123e767e95d36210d1880b0a25bf36f9a79849f41096fc235"
+  },
+  {
+    "file": "core/kais_extension/experiment19_pc_ppib/scripts/summarize_experiment19.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment19_pc_ppib/scripts/summarize_experiment19.py",
+    "sha256": "d617ec79a11c11ba4d62ccf9c465a5f0749c9b23b7b3d47a47d951a44cc7ba57"
+  },
+  {
+    "file": "core/kais_extension/experiment19_pc_ppib/models/pc_ppib_model.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment19_pc_ppib/models/pc_ppib_model.py",
+    "sha256": "a6c2a26efc8107d812f7147b7458713df221bfc600c54da7f4f7c7a0f24e787a"
+  },
+  {
+    "file": "core/kais_extension/experiment19_pc_ppib/models/__init__.py",
+    "source": "/data/jyx/yixiao/MINER-My/kais_extension/experiment19_pc_ppib/models/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "launchers/requirements.txt",
+    "source": "/data/jyx/yixiao/PGMNER-My/requirements.txt",
+    "sha256": "75a8dbdaab77189c2fcf74f74f419659e975b1ac58255fcfa10de8ca243ad130"
+  },
+  {
+    "file": "launchers/README.md",
+    "source": "/data/jyx/yixiao/PGMNER-My/README.md",
+    "sha256": "4c114dd2d5516dd73b245f261773964f4f88ba128ae96a64225366800c24eaca"
+  },
+  {
+    "file": "launchers/scripts/train_ablation.sh",
+    "source": "/data/jyx/yixiao/PGMNER-My/scripts/train_ablation.sh",
+    "sha256": "73a270a599934f96734e54e3d0724bada41b30c4d6bfd272a5e28c67757f5175"
+  },
+  {
+    "file": "launchers/scripts/eval_checkpoint.sh",
+    "source": "/data/jyx/yixiao/PGMNER-My/scripts/eval_checkpoint.sh",
+    "sha256": "940f4bb2073898baaccebbd5e8d60612bce9c8b9fafa57f4211d19c4982274ed"
+  },
+  {
+    "file": "launchers/scripts/train_main.sh",
+    "source": "/data/jyx/yixiao/PGMNER-My/scripts/train_main.sh",
+    "sha256": "9c3c27451ffc390ec39f63c4cf19f1c5b080df15596d964d8bb28717604fee2a"
+  },
+  {
+    "file": "launchers/scripts/train_multiseed.sh",
+    "source": "/data/jyx/yixiao/PGMNER-My/scripts/train_multiseed.sh",
+    "sha256": "af8bc4aaf434556744593529274326b0c8ad9d934679fcee2dd93a67ef5998b2"
+  },
+  {
+    "file": "launchers/scripts/summarize_ablation.py",
+    "source": "/data/jyx/yixiao/PGMNER-My/scripts/summarize_ablation.py",
+    "sha256": "6911afdfb2e9b42951e7cacd0cfbd48d4ecbea3e73e12fb4b6c9e5e4e4323e65"
+  },
+  {
+    "file": "launchers/scripts/prepare_data.sh",
+    "source": "/data/jyx/yixiao/PGMNER-My/scripts/prepare_data.sh",
+    "sha256": "2ab10c4611806aa80c789f50c1be8f5bab59edc2905b218d9658862ffefa4744"
+  },
+  {
+    "file": "launchers/scripts/parse_metrics.py",
+    "source": "/data/jyx/yixiao/PGMNER-My/scripts/parse_metrics.py",
+    "sha256": "fd23c56c1f7bac215520b6b118247e00ff5512298e40ce68e1bf7d75115ee0c3"
+  },
+  {
+    "file": "launchers/scripts/check_env.sh",
+    "source": "/data/jyx/yixiao/PGMNER-My/scripts/check_env.sh",
+    "sha256": "d38c23894cad15b2641dd4b11aaf19fe11ca4914cd25f95fbfd26e589cc49603"
+  },
+  {
+    "file": "launchers/scripts/predict_test.sh",
+    "source": "/data/jyx/yixiao/PGMNER-My/scripts/predict_test.sh",
+    "sha256": "35efbdb922468ea2fec933d23d9d42cd732c2c949755fa4c7fb958956207feee"
+  },
+  {
+    "file": "launchers/config/twitter2017_main.json",
+    "source": "/data/jyx/yixiao/PGMNER-My/config/twitter2017_main.json",
+    "sha256": "69717b5c8f2714b192f5e883c92a67a4d9098c613d5ee3d0e01b21d000070c06"
+  },
+  {
+    "file": "launchers/config/twitter2015_main.json",
+    "source": "/data/jyx/yixiao/PGMNER-My/config/twitter2015_main.json",
+    "sha256": "bd33fcf1562be804c30c62d0e8428d6d3eda1c8d7ac0dd5397b8068c3c9bc3b5"
+  },
+  {
+    "file": "launchers/config/ablation_matrix.tsv",
+    "source": "/data/jyx/yixiao/PGMNER-My/config/ablation_matrix.tsv",
+    "sha256": "d0eaba28da4b8f2b5d5c64f6343266da3584d9eab9765fdd1f4687e40aaecc83"
+  },
+  {
+    "file": "launchers/scripts/lib/common.sh",
+    "source": "/data/jyx/yixiao/PGMNER-My/scripts/lib/common.sh",
+    "sha256": "d4a7ea8187d201a86e329eb1e2dfd0426be3c9503f08bba634b8f49f2186f5dd"
+  },
+  {
+    "file": "launchers/scripts/lib/hparams.sh",
+    "source": "/data/jyx/yixiao/PGMNER-My/scripts/lib/hparams.sh",
+    "sha256": "31a9b8fa83be3fe1d88da2bec0e97b84d20b555da3ee4079ca0933498e795216"
+  },
+  {
+    "file": "mechanisms/README.md",
+    "source": "/data/jyx/yixiao/kais_mechanism_evidence/README.md",
+    "sha256": "6d6a676b04cf8fffa0ebbf1c17a4c33454b12907b69958dbf400f8583a60ba51"
+  },
+  {
+    "file": "mechanisms/phenomena/run_phenomena.py",
+    "source": "/data/jyx/yixiao/kais_mechanism_evidence/phenomena/run_phenomena.py",
+    "sha256": "1d3e06d7c3472431bbd0477876898b30e66e33176cc0360d0420c5e05d113c80"
+  },
+  {
+    "file": "mechanisms/models/repaired_alignment.py",
+    "source": "/data/jyx/yixiao/kais_mechanism_evidence/models/repaired_alignment.py",
+    "sha256": "fcbcfa22443d0eaa0a800933ac7596222d02a9f858ae14c4b40b592a07adde52"
+  },
+  {
+    "file": "mechanisms/phenomena/kais_deepening/deepen_bd.py",
+    "source": "/data/jyx/yixiao/kais_mechanism_evidence/phenomena/kais_deepening/deepen_bd.py",
+    "sha256": "8fadcb457ccab5ebe9192d757e04458404314d80f47b66f2c4dc167e121495e6"
+  },
+  {
+    "file": "mechanisms/phenomena/kais_deepening/run.py",
+    "source": "/data/jyx/yixiao/kais_mechanism_evidence/phenomena/kais_deepening/run.py",
+    "sha256": "16536e40a779f783f6ff7763b4fd42d95c389f9f3cf0865c1b1da2558b09560c"
+  },
+  {
+    "file": "prediction_interventions/fitlog_test.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/fitlog_test.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "prediction_interventions/main-mner-robert_baseline_backup.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/main-mner-robert_baseline_backup.py",
+    "sha256": "37083b5497b09f2f69f69fadc891bb3286ae407909321071d4631e81abd543b6"
+  },
+  {
+    "file": "prediction_interventions/pp_ib_probe.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/pp_ib_probe.py",
+    "sha256": "28e43874644ef916bebb73844f4cfd85490e31dd7bc2ebca8a6f1c69d4235af1"
+  },
+  {
+    "file": "prediction_interventions/MultimodalFusion.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/MultimodalFusion.py",
+    "sha256": "37763840a54919ef3b8faf3b7822556dc72d48530a1cc3461d2582a9911e0eab"
+  },
+  {
+    "file": "prediction_interventions/knapsack_01.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/knapsack_01.py",
+    "sha256": "75b27e2e0b3780547abbffa48fc23a1a1b355e0acd4154a337ece95aee0d3fa8"
+  },
+  {
+    "file": "prediction_interventions/engine_utils.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/engine_utils.py",
+    "sha256": "01add6aed8083bdfeae48afb264328a34c2b25950ce277d9b6fc8e0b3812c58c"
+  },
+  {
+    "file": "prediction_interventions/loader4image.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/loader4image.py",
+    "sha256": "1ff61e45eeb0b1a5746cd0b2aaefbe9854aa0fac8d017496fde9141c944294d9"
+  },
+  {
+    "file": "prediction_interventions/OT_Claude.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/OT_Claude.py",
+    "sha256": "d859d9af6cb79f9c3d51c51929a64faa560d833318e9bebacd8f713e8dc3e29d"
+  },
+  {
+    "file": "prediction_interventions/main-mner-robert.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/main-mner-robert.py",
+    "sha256": "74a8e3491011a0a06cc84befd95a0485984cfdedf1006336fafd5899c52308db"
+  },
+  {
+    "file": "prediction_interventions/README.md",
+    "source": "/home/jyx/PGMNER_supplement_20261108/README.md",
+    "sha256": "fed48052ead306ed792f8be4eeeb0487fd85e407bd657cebee07041c07b616b6"
+  },
+  {
+    "file": "prediction_interventions/OT_baseline_backup.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/OT_baseline_backup.py",
+    "sha256": "5ecbe06f8f28f8d261129b6fe4cb42088e4bd0fe55c9b77a64f8fb5ad4150373"
+  },
+  {
+    "file": "prediction_interventions/graph_got_toy.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/graph_got_toy.py",
+    "sha256": "963d84aed63718319b0b798038e9655f4e45c8231bfa22757eac40f1fdfadbf8"
+  },
+  {
+    "file": "prediction_interventions/eval_metric.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/eval_metric.py",
+    "sha256": "afa8ea22764fb2f64fedd87961a667b7c4f25ef6dd3a2403b04e1f29bc1d64d1"
+  },
+  {
+    "file": "prediction_interventions/IB_python.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/IB_python.py",
+    "sha256": "7228d896355c3715ffa3925dd01acfaf1387a0fa66fd73d1ec59a92707bc0a27"
+  },
+  {
+    "file": "prediction_interventions/OT.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/OT.py",
+    "sha256": "5ecbe06f8f28f8d261129b6fe4cb42088e4bd0fe55c9b77a64f8fb5ad4150373"
+  },
+  {
+    "file": "prediction_interventions/models/repaired_alignment.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/models/repaired_alignment.py",
+    "sha256": "7969aa99d2ab9fe00db4a633edaacc3bff1c0492454bbdd5281c25a08659b8ef"
+  },
+  {
+    "file": "prediction_interventions/models/partial_ot.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/models/partial_ot.py",
+    "sha256": "6bb9613cb587e19fa0019e535c8bdaf34fe6c64ce19c185880f4ef2327fc952b"
+  },
+  {
+    "file": "prediction_interventions/models/span_extractors.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/models/span_extractors.py",
+    "sha256": "af8819bab84494325ddad79a3147476bc7520de3742db3f8cd91f108bc82d583"
+  },
+  {
+    "file": "prediction_interventions/models/span_layer.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/models/span_layer.py",
+    "sha256": "fff642f025a0ba55a615680c9e446786f052f4c86edbee1d9eb4bed2d4bb5a63"
+  },
+  {
+    "file": "prediction_interventions/models/model_utils.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/models/model_utils.py",
+    "sha256": "c50d65389cae19b63bf4b8f36746e5b1e593a7b34efaffb4ee16ea774b4b0294"
+  },
+  {
+    "file": "prediction_interventions/models/MI_estimators.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/models/MI_estimators.py",
+    "sha256": "e94284b44823e56ef8ea24fe94cb048b867fe0ffa23663d5e7d83e5b81012840"
+  },
+  {
+    "file": "prediction_interventions/models/classifier.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/models/classifier.py",
+    "sha256": "a114f5888e462ddb6b80466f81b8ee2cb7598d0338b9de6b7bb0b952966eadda"
+  },
+  {
+    "file": "prediction_interventions/models/bn_bert_ner_OT_robert_baseline_backup.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/models/bn_bert_ner_OT_robert_baseline_backup.py",
+    "sha256": "99af8552ba9701a32fae01b829bc31f7583b6a779452af2093603d8ba86f373a"
+  },
+  {
+    "file": "prediction_interventions/models/bn_bert_ner_OT_robert.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/models/bn_bert_ner_OT_robert.py",
+    "sha256": "871bd200658b9dd38e0b2daa7ca8a9895288d763d3808e3099763836ce0da6c7"
+  },
+  {
+    "file": "prediction_interventions/models/semantic_ot_aligner.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/models/semantic_ot_aligner.py",
+    "sha256": "4880c2d1e98322e8c63ac09e6b2beb47ad64643394c50fe441fb59f0309d228d"
+  },
+  {
+    "file": "prediction_interventions/models/bottleneck.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/models/bottleneck.py",
+    "sha256": "2874839831022ba7e3777a15f96ef816e36010e6cfe00ff1fd789e47f5c0f19d"
+  },
+  {
+    "file": "prediction_interventions/models/round2_aux.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/models/round2_aux.py",
+    "sha256": "4fd439d478c536b7dff2274a99c17c85dc6ead51d36fb0674727b21c7357e05e"
+  },
+  {
+    "file": "prediction_interventions/models/got_cac.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/models/got_cac.py",
+    "sha256": "1e5d0213ebf19570b25697b0b3f0ea80135dec386576953f2307d87af2a96e72"
+  },
+  {
+    "file": "prediction_interventions/repair_tests/test_mechanisms.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/repair_tests/test_mechanisms.py",
+    "sha256": "2cad2af3460d96990ef0013fa5b1688c8d054d5e956d1b68430b5327c39fba2d"
+  },
+  {
+    "file": "prediction_interventions/repair_tests/test_common_selection.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/repair_tests/test_common_selection.py",
+    "sha256": "fb392fb6ddae91fb66f8c5b37ce852ff44d9b4c2dcd5ff72f1fb81640b3e1cfb"
+  },
+  {
+    "file": "prediction_interventions/repair_tests/test_separate_clip.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/repair_tests/test_separate_clip.py",
+    "sha256": "9d610f1359161a9c3b5787c981d012108020d9bd3d9c5e339215e54051a671df"
+  },
+  {
+    "file": "prediction_interventions/repair_tests/test_selection.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/repair_tests/test_selection.py",
+    "sha256": "58fa24ddf497e6d4436b7f59ca7c0a6d132245db0539bb5095fd7373ebaeaece"
+  },
+  {
+    "file": "prediction_interventions/repair_tests/test_local_aux.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/repair_tests/test_local_aux.py",
+    "sha256": "603ab6226bb64f4fbc4353f7e5746df0c6a28dcba01e4c3e347e1aa0885853d9"
+  },
+  {
+    "file": "prediction_interventions/repair_tests/test_residual_integration.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/repair_tests/test_residual_integration.py",
+    "sha256": "352277bd889b71c24f28c70a83d3e18357bbaea29419f679aaf6499a91e43bc7"
+  },
+  {
+    "file": "prediction_interventions/repair_tests/test_ppib_focus.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/repair_tests/test_ppib_focus.py",
+    "sha256": "3fe0adab56a1b0ce2b17248204b887ece79750079a18a8483f5eb203679ebe5d"
+  },
+  {
+    "file": "prediction_interventions/repair_tests/test_visual_rebuild.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/repair_tests/test_visual_rebuild.py",
+    "sha256": "a6e0eeb013134785b7d865e5b29d8fd88b248981d8c56292fddc9d62e4e95c47"
+  },
+  {
+    "file": "prediction_interventions/repair_tests/test_audit_interventions.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/repair_tests/test_audit_interventions.py",
+    "sha256": "810f64b2ae90553cfc5f7b852162ca0bf8d023c0e2ca71b08ac921cd213aaa99"
+  },
+  {
+    "file": "prediction_interventions/repair_tests/test_gate_balance.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/repair_tests/test_gate_balance.py",
+    "sha256": "5e26a75fc601a13948d06814597b136016106cb2c2ad87c30fd9d0462ef803d4"
+  },
+  {
+    "file": "prediction_interventions/repair_tests/test_gate_cost.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/repair_tests/test_gate_cost.py",
+    "sha256": "513b2464f7c1d2121de055c98f45ad9ff7f1a311a77604c0b850e60197fcce1a"
+  },
+  {
+    "file": "prediction_interventions/repair_tests/test_split.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/repair_tests/test_split.py",
+    "sha256": "dbd40e10685eee33857ae65887aee96ed9d577aeb68dd8cf248a8264da57383c"
+  },
+  {
+    "file": "prediction_interventions/repair_tests/test_integration.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/repair_tests/test_integration.py",
+    "sha256": "b5a63422ededcf98b08d87b12c05a8ef26da4187fa5164a4079e9edc23d3e0f0"
+  },
+  {
+    "file": "prediction_interventions/scripts/summarize_branches.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/summarize_branches.py",
+    "sha256": "21dc52264672f1ecab5e7459ec794f226d7513ed4798c7f078ba823f9aa90fa2"
+  },
+  {
+    "file": "prediction_interventions/scripts/path_probe.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/path_probe.py",
+    "sha256": "c83c46f1b46103f33cdefb9bd1ef0db5a45587978670df19c6442c2a50aa0590"
+  },
+  {
+    "file": "prediction_interventions/scripts/run_visual_study.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/run_visual_study.py",
+    "sha256": "01055a3f10744a9565fbbd47b394d08095006813a2453b2a661831af1509fa71"
+  },
+  {
+    "file": "prediction_interventions/scripts/branch_audit.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/branch_audit.py",
+    "sha256": "ae319e4db3c47b0e8f7a6bc881fe63d32b9c4204ee4513f4db5ab27b3de1c1a1"
+  },
+  {
+    "file": "prediction_interventions/scripts/run_adaptive.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/run_adaptive.py",
+    "sha256": "da6bcb9676b59caadece7e0a417017b56ade027b56d3c8034e327a52ebccbdff"
+  },
+  {
+    "file": "prediction_interventions/scripts/summarize_small.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/summarize_small.py",
+    "sha256": "3884e9942835aa437852576cb7ce94a93b5007eaced516e2c11e133a74144689"
+  },
+  {
+    "file": "prediction_interventions/scripts/entity_signal_probe.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/entity_signal_probe.py",
+    "sha256": "e48ecb8e646d5573402715035769570fdcb2a23ff4dc5e6bd20079638d29b7dc"
+  },
+  {
+    "file": "prediction_interventions/scripts/run_ppib_recovery.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/run_ppib_recovery.py",
+    "sha256": "8a734f9bd61d58d1c6fe67b4cb17bb132e0f16936ddc7858447ee49fa9efc2d8"
+  },
+  {
+    "file": "prediction_interventions/scripts/small_function_audit.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/small_function_audit.py",
+    "sha256": "a61caf410c8c752fb796357f07017401e307ef2da56c0931feefb43d73fe1e35"
+  },
+  {
+    "file": "prediction_interventions/scripts/build_cases.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/build_cases.py",
+    "sha256": "90708af917504a1651aa1c23c94e2f1d6cbf8e31f8303f11a8b92c0012988ad7"
+  },
+  {
+    "file": "prediction_interventions/scripts/run_functional.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/run_functional.py",
+    "sha256": "64c9d23a65b3cbecd5138c0ea18e8c9f08a3d5a2a122359385d4340118e0a88e"
+  },
+  {
+    "file": "prediction_interventions/scripts/compare_vision.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/compare_vision.py",
+    "sha256": "39c9361774795216c94c141a42287746a1a9edd7f082bbe36d8ed4390314b593"
+  },
+  {
+    "file": "prediction_interventions/scripts/run_path.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/run_path.py",
+    "sha256": "1f24d44cd7687e5e661e8b1f45344c4d48fffa968a719346fcd006f5970a8028"
+  },
+  {
+    "file": "prediction_interventions/scripts/run_small.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/run_small.py",
+    "sha256": "94df16aa5615fef2fb2c5fb98ed2a5fe13d5d2df1116ce06e5683fbbf66cb87e"
+  },
+  {
+    "file": "prediction_interventions/scripts/run_balance_study.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/run_balance_study.py",
+    "sha256": "12f6b65a102317532b57e2cef0ca9adf97d2fbe98427238e626bf1c1301f38b2"
+  },
+  {
+    "file": "prediction_interventions/scripts/run_entity_probe.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/run_entity_probe.py",
+    "sha256": "17ba564ddc436ee4c3e0577fc818535e4328599dbdd5b44a7e8364126b481829"
+  },
+  {
+    "file": "prediction_interventions/scripts/queue_after_clip.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/queue_after_clip.py",
+    "sha256": "505da93e6870c2953474b1e508392b049c75a4da3be829f992a07269cfb9df5b"
+  },
+  {
+    "file": "prediction_interventions/scripts/build_mechanism_figures.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/build_mechanism_figures.py",
+    "sha256": "cb2f874c1ebdf07c3a77a3194503e6c606871294251d8e5f0206ca3133b224ab"
+  },
+  {
+    "file": "prediction_interventions/scripts/run_completion.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/run_completion.py",
+    "sha256": "b4ee41dc1fe39517e5e1cfdf1c1776ca9133f9d3f5f69b97490c4f22ca8ed8d3"
+  },
+  {
+    "file": "prediction_interventions/scripts/run_night.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/run_night.py",
+    "sha256": "f1b475c3d8d52ae4a27721bee8d953210dcf19a99b186398c1a3898336900939"
+  },
+  {
+    "file": "prediction_interventions/scripts/audit_visual.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/audit_visual.py",
+    "sha256": "92b94a48c65e0c1b2550b06b543193e26a227409a8c18776ca4eb428bb4a80ae"
+  },
+  {
+    "file": "prediction_interventions/scripts/functional_audit.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/functional_audit.py",
+    "sha256": "2117e79555e74ef3d8a4b6833b93d55adb985d61ae27906bf8e091d1c38a4d79"
+  },
+  {
+    "file": "prediction_interventions/scripts/plot_audit.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/plot_audit.py",
+    "sha256": "d3d9c04c504ec241f43a2ac96c9925517d7fbda40d99e2fa80a4fed44cbc9c97"
+  },
+  {
+    "file": "prediction_interventions/scripts/run_selection.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/run_selection.py",
+    "sha256": "f08cbfbd704d1ea404e263cc6464f1874c319a4a9e0991fc4300daaf74bc4a0e"
+  },
+  {
+    "file": "prediction_interventions/scripts/watch_visual.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/watch_visual.py",
+    "sha256": "5699d39eb2be1df85a84d34beb4c0c3f09278115fd4e6246745ead7bf057db02"
+  },
+  {
+    "file": "prediction_interventions/scripts/night_explore.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/night_explore.py",
+    "sha256": "29fe2a5c0b1b9a474ab46912dd5518f33279aacadcdb27c682ca44ea2e147973"
+  },
+  {
+    "file": "prediction_interventions/scripts/mechanism_audit.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/mechanism_audit.py",
+    "sha256": "1ade9f6521a9c26f9f04b26bc3235090b117f00a6bdfb020235dd5cb8c12513c"
+  },
+  {
+    "file": "prediction_interventions/scripts/run_aux.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/run_aux.py",
+    "sha256": "ceddee024fe9fe331b8aaef24267103a7935447bc5ef746d4797dc3d81d80a35"
+  },
+  {
+    "file": "prediction_interventions/scripts/run_attempt.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/run_attempt.py",
+    "sha256": "806e2e68740d0c52bedf5c673ec38d40697a2770af9b7d1c03a99ecb71cd3bb1"
+  },
+  {
+    "file": "prediction_interventions/scripts/run_ramp.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/run_ramp.py",
+    "sha256": "630f473de16dd3fac4f2cf9e2b00b1c923dece613414e3c48313a528cbfaff5a"
+  },
+  {
+    "file": "prediction_interventions/scripts/run_branch.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/run_branch.py",
+    "sha256": "72cf3474bde26dc9e3c10fddacadb24b562fa976abe7fa15dfeda1ba2e00bafa"
+  },
+  {
+    "file": "prediction_interventions/scripts/clip_probe.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/scripts/clip_probe.py",
+    "sha256": "630489b1cc88c8f95a34af6dd807ef4abfe5b50076e790e806bc49521efeffec"
+  },
+  {
+    "file": "prediction_interventions/utils/allen_utils.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/utils/allen_utils.py",
+    "sha256": "8d15f025cd70c96844959c84a4f7a5986551e72471af2607a25e8c2f9b55d164"
+  },
+  {
+    "file": "prediction_interventions/utils/utils_contrastive.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/utils/utils_contrastive.py",
+    "sha256": "572dd2c366c9fbe4a0d3100e2b5c2d64b5bda33cffc19222c4da2c752d04de4e"
+  },
+  {
+    "file": "prediction_interventions/utils/vllm_sanity.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/utils/vllm_sanity.py",
+    "sha256": "950c362e45ac2649d799c231bf29dd1364d7c2600be2755cd6bada082120fe45"
+  },
+  {
+    "file": "prediction_interventions/utils/typos.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/utils/typos.py",
+    "sha256": "443e837c29570c2af9d888427a270c8be617b09b0c4840c32eed7bd9142a0352"
+  },
+  {
+    "file": "prediction_interventions/utils/datasets_PGMI.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/utils/datasets_PGMI.py",
+    "sha256": "bff6bf812fe47e975b3b3555e365531ed309788b21ee48527c826f96fa059e93"
+  },
+  {
+    "file": "prediction_interventions/utils/separate_clip.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/utils/separate_clip.py",
+    "sha256": "f1756787e00ed5bb9e2b3e4e3e8b40aabcb6124360a1f29851f0c66eaba347e2"
+  },
+  {
+    "file": "prediction_interventions/utils/utils_metrics.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/utils/utils_metrics.py",
+    "sha256": "a14cb82e930e13223e52b7b956bbf24683734612666b7f4f0df9abc79d1e7891"
+  },
+  {
+    "file": "prediction_interventions/utils/datasets.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/utils/datasets.py",
+    "sha256": "b9d0cfbe48f42cc3943a6a1c1cb4dd9335d0d66a0dae4cfb0c8ec436bb734f00"
+  },
+  {
+    "file": "prediction_interventions/configs/twitter2017_baseline.yaml",
+    "source": "/home/jyx/PGMNER_supplement_20261108/configs/twitter2017_baseline.yaml",
+    "sha256": "9fa75106e869c7bb869e6f9b23258398d432db64339edc4a8b7857030bb87560"
+  },
+  {
+    "file": "prediction_interventions/configs/twitter2017_got_ones.yaml",
+    "source": "/home/jyx/PGMNER_supplement_20261108/configs/twitter2017_got_ones.yaml",
+    "sha256": "b05e7bf9479a7e9bc0e1d1013582d2b995ba3d87c3f7808e6bd6b1670154bc56"
+  },
+  {
+    "file": "prediction_interventions/configs/twitter2017_got_identity.yaml",
+    "source": "/home/jyx/PGMNER_supplement_20261108/configs/twitter2017_got_identity.yaml",
+    "sha256": "5303e107365137a9a1eb83938ffef50d2668385edeb19b69a768ff7d51c2f4ca"
+  },
+  {
+    "file": "prediction_interventions/configs/twitter2017_got.yaml",
+    "source": "/home/jyx/PGMNER_supplement_20261108/configs/twitter2017_got.yaml",
+    "sha256": "fa1d943b59113fa73704647f2a9b4f3fd2a50df97491de740b2d5a2eb9830afc"
+  },
+  {
+    "file": "prediction_interventions/configs/pgmner_vllm_twitter2015.yaml",
+    "source": "/home/jyx/PGMNER_supplement_20261108/configs/pgmner_vllm_twitter2015.yaml",
+    "sha256": "34a7426a719da6485421ec80245256960395f474812303c38cb3f15660e631e4"
+  },
+  {
+    "file": "prediction_interventions/configs/pgmner_vllm_twitter2017.yaml",
+    "source": "/home/jyx/PGMNER_supplement_20261108/configs/pgmner_vllm_twitter2017.yaml",
+    "sha256": "ed8bf6feb89097fbfdff07f74174dc363be306bcaeed3030a843401902c87ed7"
+  },
+  {
+    "file": "prediction_interventions/configs/twitter2017_sem_ot.yaml",
+    "source": "/home/jyx/PGMNER_supplement_20261108/configs/twitter2017_sem_ot.yaml",
+    "sha256": "cca4b7ccee56a4124e1d0bf52ee8896000ae002ca011b16309c121b2f7fdb9f4"
+  },
+  {
+    "file": "prediction_interventions/models/losses/dice_loss.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/models/losses/dice_loss.py",
+    "sha256": "57cecb539b37c485aa24abb407b51ff6f7859ade9446b3c98a17b65003a5a7bb"
+  },
+  {
+    "file": "prediction_interventions/models/losses/focal_loss.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/models/losses/focal_loss.py",
+    "sha256": "92ca4399cfafbafabc3626a81baf0f43525e69e09d0526b4e5d58455c1170235"
+  },
+  {
+    "file": "prediction_interventions/models/losses/label_smoothing.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/models/losses/label_smoothing.py",
+    "sha256": "a30ac6ccdd9de3d196b0e405cce81fbe4e9b605553bd5ce73b148d9a6e3b1b12"
+  },
+  {
+    "file": "prediction_interventions/models/losses/SupConLoss.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/models/losses/SupConLoss.py",
+    "sha256": "c7421cbf5cda9b9c2022c7ff2baaeca912d621cda70ea60d290a366769082f95"
+  },
+  {
+    "file": "prediction_interventions/models/losses/crf.py",
+    "source": "/home/jyx/PGMNER_supplement_20261108/models/losses/crf.py",
+    "sha256": "3fd8501c36ff642bf691ab820921ed63c435628dc95a1c46cb77c6371b79e187"
+  },
+  {
+    "file": "prediction_snapshot/main-mner-robert.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/main-mner-robert.py",
+    "sha256": "74a8e3491011a0a06cc84befd95a0485984cfdedf1006336fafd5899c52308db"
+  },
+  {
+    "file": "prediction_snapshot/IB_python.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/IB_python.py",
+    "sha256": "7228d896355c3715ffa3925dd01acfaf1387a0fa66fd73d1ec59a92707bc0a27"
+  },
+  {
+    "file": "prediction_snapshot/OT.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/OT.py",
+    "sha256": "5ecbe06f8f28f8d261129b6fe4cb42088e4bd0fe55c9b77a64f8fb5ad4150373"
+  },
+  {
+    "file": "prediction_snapshot/engine_utils.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/engine_utils.py",
+    "sha256": "01add6aed8083bdfeae48afb264328a34c2b25950ce277d9b6fc8e0b3812c58c"
+  },
+  {
+    "file": "prediction_snapshot/main-mner-robert_baseline_backup.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/main-mner-robert_baseline_backup.py",
+    "sha256": "37083b5497b09f2f69f69fadc891bb3286ae407909321071d4631e81abd543b6"
+  },
+  {
+    "file": "prediction_snapshot/pp_ib_probe.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/pp_ib_probe.py",
+    "sha256": "28e43874644ef916bebb73844f4cfd85490e31dd7bc2ebca8a6f1c69d4235af1"
+  },
+  {
+    "file": "prediction_snapshot/eval_metric.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/eval_metric.py",
+    "sha256": "afa8ea22764fb2f64fedd87961a667b7c4f25ef6dd3a2403b04e1f29bc1d64d1"
+  },
+  {
+    "file": "prediction_snapshot/OT_baseline_backup.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/OT_baseline_backup.py",
+    "sha256": "5ecbe06f8f28f8d261129b6fe4cb42088e4bd0fe55c9b77a64f8fb5ad4150373"
+  },
+  {
+    "file": "prediction_snapshot/graph_got_toy.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/graph_got_toy.py",
+    "sha256": "963d84aed63718319b0b798038e9655f4e45c8231bfa22757eac40f1fdfadbf8"
+  },
+  {
+    "file": "prediction_snapshot/fitlog_test.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/fitlog_test.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "file": "prediction_snapshot/loader4image.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/loader4image.py",
+    "sha256": "1ff61e45eeb0b1a5746cd0b2aaefbe9854aa0fac8d017496fde9141c944294d9"
+  },
+  {
+    "file": "prediction_snapshot/knapsack_01.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/knapsack_01.py",
+    "sha256": "75b27e2e0b3780547abbffa48fc23a1a1b355e0acd4154a337ece95aee0d3fa8"
+  },
+  {
+    "file": "prediction_snapshot/MultimodalFusion.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/MultimodalFusion.py",
+    "sha256": "37763840a54919ef3b8faf3b7822556dc72d48530a1cc3461d2582a9911e0eab"
+  },
+  {
+    "file": "prediction_snapshot/OT_Claude.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/OT_Claude.py",
+    "sha256": "d859d9af6cb79f9c3d51c51929a64faa560d833318e9bebacd8f713e8dc3e29d"
+  },
+  {
+    "file": "prediction_snapshot/utils/utils_metrics.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/utils/utils_metrics.py",
+    "sha256": "a14cb82e930e13223e52b7b956bbf24683734612666b7f4f0df9abc79d1e7891"
+  },
+  {
+    "file": "prediction_snapshot/utils/typos.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/utils/typos.py",
+    "sha256": "443e837c29570c2af9d888427a270c8be617b09b0c4840c32eed7bd9142a0352"
+  },
+  {
+    "file": "prediction_snapshot/utils/vllm_sanity.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/utils/vllm_sanity.py",
+    "sha256": "950c362e45ac2649d799c231bf29dd1364d7c2600be2755cd6bada082120fe45"
+  },
+  {
+    "file": "prediction_snapshot/utils/datasets.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/utils/datasets.py",
+    "sha256": "b9d0cfbe48f42cc3943a6a1c1cb4dd9335d0d66a0dae4cfb0c8ec436bb734f00"
+  },
+  {
+    "file": "prediction_snapshot/utils/allen_utils.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/utils/allen_utils.py",
+    "sha256": "8d15f025cd70c96844959c84a4f7a5986551e72471af2607a25e8c2f9b55d164"
+  },
+  {
+    "file": "prediction_snapshot/utils/separate_clip.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/utils/separate_clip.py",
+    "sha256": "f1756787e00ed5bb9e2b3e4e3e8b40aabcb6124360a1f29851f0c66eaba347e2"
+  },
+  {
+    "file": "prediction_snapshot/utils/utils_contrastive.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/utils/utils_contrastive.py",
+    "sha256": "572dd2c366c9fbe4a0d3100e2b5c2d64b5bda33cffc19222c4da2c752d04de4e"
+  },
+  {
+    "file": "prediction_snapshot/utils/datasets_PGMI.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/utils/datasets_PGMI.py",
+    "sha256": "bff6bf812fe47e975b3b3555e365531ed309788b21ee48527c826f96fa059e93"
+  },
+  {
+    "file": "prediction_snapshot/repair_tests/test_gate_balance.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/repair_tests/test_gate_balance.py",
+    "sha256": "5e26a75fc601a13948d06814597b136016106cb2c2ad87c30fd9d0462ef803d4"
+  },
+  {
+    "file": "prediction_snapshot/repair_tests/test_residual_integration.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/repair_tests/test_residual_integration.py",
+    "sha256": "352277bd889b71c24f28c70a83d3e18357bbaea29419f679aaf6499a91e43bc7"
+  },
+  {
+    "file": "prediction_snapshot/repair_tests/test_mechanisms.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/repair_tests/test_mechanisms.py",
+    "sha256": "2cad2af3460d96990ef0013fa5b1688c8d054d5e956d1b68430b5327c39fba2d"
+  },
+  {
+    "file": "prediction_snapshot/repair_tests/test_common_selection.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/repair_tests/test_common_selection.py",
+    "sha256": "fb392fb6ddae91fb66f8c5b37ce852ff44d9b4c2dcd5ff72f1fb81640b3e1cfb"
+  },
+  {
+    "file": "prediction_snapshot/repair_tests/test_separate_clip.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/repair_tests/test_separate_clip.py",
+    "sha256": "9d610f1359161a9c3b5787c981d012108020d9bd3d9c5e339215e54051a671df"
+  },
+  {
+    "file": "prediction_snapshot/repair_tests/test_gate_cost.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/repair_tests/test_gate_cost.py",
+    "sha256": "513b2464f7c1d2121de055c98f45ad9ff7f1a311a77604c0b850e60197fcce1a"
+  },
+  {
+    "file": "prediction_snapshot/repair_tests/test_ppib_focus.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/repair_tests/test_ppib_focus.py",
+    "sha256": "3fe0adab56a1b0ce2b17248204b887ece79750079a18a8483f5eb203679ebe5d"
+  },
+  {
+    "file": "prediction_snapshot/repair_tests/test_visual_rebuild.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/repair_tests/test_visual_rebuild.py",
+    "sha256": "a6e0eeb013134785b7d865e5b29d8fd88b248981d8c56292fddc9d62e4e95c47"
+  },
+  {
+    "file": "prediction_snapshot/repair_tests/test_audit_interventions.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/repair_tests/test_audit_interventions.py",
+    "sha256": "810f64b2ae90553cfc5f7b852162ca0bf8d023c0e2ca71b08ac921cd213aaa99"
+  },
+  {
+    "file": "prediction_snapshot/repair_tests/test_integration.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/repair_tests/test_integration.py",
+    "sha256": "b5a63422ededcf98b08d87b12c05a8ef26da4187fa5164a4079e9edc23d3e0f0"
+  },
+  {
+    "file": "prediction_snapshot/repair_tests/test_selection.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/repair_tests/test_selection.py",
+    "sha256": "58fa24ddf497e6d4436b7f59ca7c0a6d132245db0539bb5095fd7373ebaeaece"
+  },
+  {
+    "file": "prediction_snapshot/repair_tests/test_local_aux.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/repair_tests/test_local_aux.py",
+    "sha256": "603ab6226bb64f4fbc4353f7e5746df0c6a28dcba01e4c3e347e1aa0885853d9"
+  },
+  {
+    "file": "prediction_snapshot/repair_tests/test_split.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/repair_tests/test_split.py",
+    "sha256": "dbd40e10685eee33857ae65887aee96ed9d577aeb68dd8cf248a8264da57383c"
+  },
+  {
+    "file": "prediction_snapshot/scripts/run_ramp.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/run_ramp.py",
+    "sha256": "630f473de16dd3fac4f2cf9e2b00b1c923dece613414e3c48313a528cbfaff5a"
+  },
+  {
+    "file": "prediction_snapshot/scripts/summarize_small.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/summarize_small.py",
+    "sha256": "3884e9942835aa437852576cb7ce94a93b5007eaced516e2c11e133a74144689"
+  },
+  {
+    "file": "prediction_snapshot/scripts/run_functional.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/run_functional.py",
+    "sha256": "64c9d23a65b3cbecd5138c0ea18e8c9f08a3d5a2a122359385d4340118e0a88e"
+  },
+  {
+    "file": "prediction_snapshot/scripts/run_ppib_recovery.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/run_ppib_recovery.py",
+    "sha256": "8a734f9bd61d58d1c6fe67b4cb17bb132e0f16936ddc7858447ee49fa9efc2d8"
+  },
+  {
+    "file": "prediction_snapshot/scripts/run_selection.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/run_selection.py",
+    "sha256": "f08cbfbd704d1ea404e263cc6464f1874c319a4a9e0991fc4300daaf74bc4a0e"
+  },
+  {
+    "file": "prediction_snapshot/scripts/branch_audit.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/branch_audit.py",
+    "sha256": "ae319e4db3c47b0e8f7a6bc881fe63d32b9c4204ee4513f4db5ab27b3de1c1a1"
+  },
+  {
+    "file": "prediction_snapshot/scripts/run_entity_probe.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/run_entity_probe.py",
+    "sha256": "17ba564ddc436ee4c3e0577fc818535e4328599dbdd5b44a7e8364126b481829"
+  },
+  {
+    "file": "prediction_snapshot/scripts/watch_visual.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/watch_visual.py",
+    "sha256": "5699d39eb2be1df85a84d34beb4c0c3f09278115fd4e6246745ead7bf057db02"
+  },
+  {
+    "file": "prediction_snapshot/scripts/run_small.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/run_small.py",
+    "sha256": "94df16aa5615fef2fb2c5fb98ed2a5fe13d5d2df1116ce06e5683fbbf66cb87e"
+  },
+  {
+    "file": "prediction_snapshot/scripts/entity_signal_probe.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/entity_signal_probe.py",
+    "sha256": "e48ecb8e646d5573402715035769570fdcb2a23ff4dc5e6bd20079638d29b7dc"
+  },
+  {
+    "file": "prediction_snapshot/scripts/run_branch.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/run_branch.py",
+    "sha256": "72cf3474bde26dc9e3c10fddacadb24b562fa976abe7fa15dfeda1ba2e00bafa"
+  },
+  {
+    "file": "prediction_snapshot/scripts/run_adaptive.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/run_adaptive.py",
+    "sha256": "da6bcb9676b59caadece7e0a417017b56ade027b56d3c8034e327a52ebccbdff"
+  },
+  {
+    "file": "prediction_snapshot/scripts/functional_audit.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/functional_audit.py",
+    "sha256": "2117e79555e74ef3d8a4b6833b93d55adb985d61ae27906bf8e091d1c38a4d79"
+  },
+  {
+    "file": "prediction_snapshot/scripts/run_aux.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/run_aux.py",
+    "sha256": "ceddee024fe9fe331b8aaef24267103a7935447bc5ef746d4797dc3d81d80a35"
+  },
+  {
+    "file": "prediction_snapshot/scripts/run_attempt.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/run_attempt.py",
+    "sha256": "806e2e68740d0c52bedf5c673ec38d40697a2770af9b7d1c03a99ecb71cd3bb1"
+  },
+  {
+    "file": "prediction_snapshot/scripts/run_completion.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/run_completion.py",
+    "sha256": "b4ee41dc1fe39517e5e1cfdf1c1776ca9133f9d3f5f69b97490c4f22ca8ed8d3"
+  },
+  {
+    "file": "prediction_snapshot/scripts/night_explore.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/night_explore.py",
+    "sha256": "29fe2a5c0b1b9a474ab46912dd5518f33279aacadcdb27c682ca44ea2e147973"
+  },
+  {
+    "file": "prediction_snapshot/scripts/path_probe.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/path_probe.py",
+    "sha256": "c83c46f1b46103f33cdefb9bd1ef0db5a45587978670df19c6442c2a50aa0590"
+  },
+  {
+    "file": "prediction_snapshot/scripts/plot_audit.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/plot_audit.py",
+    "sha256": "d3d9c04c504ec241f43a2ac96c9925517d7fbda40d99e2fa80a4fed44cbc9c97"
+  },
+  {
+    "file": "prediction_snapshot/scripts/run_balance_study.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/run_balance_study.py",
+    "sha256": "12f6b65a102317532b57e2cef0ca9adf97d2fbe98427238e626bf1c1301f38b2"
+  },
+  {
+    "file": "prediction_snapshot/scripts/compare_vision.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/compare_vision.py",
+    "sha256": "39c9361774795216c94c141a42287746a1a9edd7f082bbe36d8ed4390314b593"
+  },
+  {
+    "file": "prediction_snapshot/scripts/summarize_branches.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/summarize_branches.py",
+    "sha256": "21dc52264672f1ecab5e7459ec794f226d7513ed4798c7f078ba823f9aa90fa2"
+  },
+  {
+    "file": "prediction_snapshot/scripts/small_function_audit.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/small_function_audit.py",
+    "sha256": "a61caf410c8c752fb796357f07017401e307ef2da56c0931feefb43d73fe1e35"
+  },
+  {
+    "file": "prediction_snapshot/scripts/run_path.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/run_path.py",
+    "sha256": "1f24d44cd7687e5e661e8b1f45344c4d48fffa968a719346fcd006f5970a8028"
+  },
+  {
+    "file": "prediction_snapshot/scripts/audit_visual.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/audit_visual.py",
+    "sha256": "92b94a48c65e0c1b2550b06b543193e26a227409a8c18776ca4eb428bb4a80ae"
+  },
+  {
+    "file": "prediction_snapshot/scripts/queue_after_clip.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/queue_after_clip.py",
+    "sha256": "505da93e6870c2953474b1e508392b049c75a4da3be829f992a07269cfb9df5b"
+  },
+  {
+    "file": "prediction_snapshot/scripts/clip_probe.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/clip_probe.py",
+    "sha256": "630489b1cc88c8f95a34af6dd807ef4abfe5b50076e790e806bc49521efeffec"
+  },
+  {
+    "file": "prediction_snapshot/scripts/mechanism_audit.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/mechanism_audit.py",
+    "sha256": "1ade9f6521a9c26f9f04b26bc3235090b117f00a6bdfb020235dd5cb8c12513c"
+  },
+  {
+    "file": "prediction_snapshot/scripts/run_night.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/run_night.py",
+    "sha256": "f1b475c3d8d52ae4a27721bee8d953210dcf19a99b186398c1a3898336900939"
+  },
+  {
+    "file": "prediction_snapshot/scripts/run_visual_study.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/scripts/run_visual_study.py",
+    "sha256": "01055a3f10744a9565fbbd47b394d08095006813a2453b2a661831af1509fa71"
+  },
+  {
+    "file": "prediction_snapshot/models/classifier.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/models/classifier.py",
+    "sha256": "a114f5888e462ddb6b80466f81b8ee2cb7598d0338b9de6b7bb0b952966eadda"
+  },
+  {
+    "file": "prediction_snapshot/models/span_extractors.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/models/span_extractors.py",
+    "sha256": "af8819bab84494325ddad79a3147476bc7520de3742db3f8cd91f108bc82d583"
+  },
+  {
+    "file": "prediction_snapshot/models/span_layer.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/models/span_layer.py",
+    "sha256": "fff642f025a0ba55a615680c9e446786f052f4c86edbee1d9eb4bed2d4bb5a63"
+  },
+  {
+    "file": "prediction_snapshot/models/bn_bert_ner_OT_robert.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/models/bn_bert_ner_OT_robert.py",
+    "sha256": "871bd200658b9dd38e0b2daa7ca8a9895288d763d3808e3099763836ce0da6c7"
+  },
+  {
+    "file": "prediction_snapshot/models/semantic_ot_aligner.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/models/semantic_ot_aligner.py",
+    "sha256": "4880c2d1e98322e8c63ac09e6b2beb47ad64643394c50fe441fb59f0309d228d"
+  },
+  {
+    "file": "prediction_snapshot/models/model_utils.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/models/model_utils.py",
+    "sha256": "c50d65389cae19b63bf4b8f36746e5b1e593a7b34efaffb4ee16ea774b4b0294"
+  },
+  {
+    "file": "prediction_snapshot/models/round2_aux.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/models/round2_aux.py",
+    "sha256": "4fd439d478c536b7dff2274a99c17c85dc6ead51d36fb0674727b21c7357e05e"
+  },
+  {
+    "file": "prediction_snapshot/models/bn_bert_ner_OT_robert_baseline_backup.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/models/bn_bert_ner_OT_robert_baseline_backup.py",
+    "sha256": "99af8552ba9701a32fae01b829bc31f7583b6a779452af2093603d8ba86f373a"
+  },
+  {
+    "file": "prediction_snapshot/models/partial_ot.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/models/partial_ot.py",
+    "sha256": "6bb9613cb587e19fa0019e535c8bdaf34fe6c64ce19c185880f4ef2327fc952b"
+  },
+  {
+    "file": "prediction_snapshot/models/bottleneck.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/models/bottleneck.py",
+    "sha256": "2874839831022ba7e3777a15f96ef816e36010e6cfe00ff1fd789e47f5c0f19d"
+  },
+  {
+    "file": "prediction_snapshot/models/got_cac.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/models/got_cac.py",
+    "sha256": "1e5d0213ebf19570b25697b0b3f0ea80135dec386576953f2307d87af2a96e72"
+  },
+  {
+    "file": "prediction_snapshot/models/MI_estimators.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/models/MI_estimators.py",
+    "sha256": "e94284b44823e56ef8ea24fe94cb048b867fe0ffa23663d5e7d83e5b81012840"
+  },
+  {
+    "file": "prediction_snapshot/models/repaired_alignment.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/models/repaired_alignment.py",
+    "sha256": "7969aa99d2ab9fe00db4a633edaacc3bff1c0492454bbdd5281c25a08659b8ef"
+  },
+  {
+    "file": "prediction_snapshot/models/losses/SupConLoss.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/models/losses/SupConLoss.py",
+    "sha256": "c7421cbf5cda9b9c2022c7ff2baaeca912d621cda70ea60d290a366769082f95"
+  },
+  {
+    "file": "prediction_snapshot/models/losses/dice_loss.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/models/losses/dice_loss.py",
+    "sha256": "57cecb539b37c485aa24abb407b51ff6f7859ade9446b3c98a17b65003a5a7bb"
+  },
+  {
+    "file": "prediction_snapshot/models/losses/crf.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/models/losses/crf.py",
+    "sha256": "3fd8501c36ff642bf691ab820921ed63c435628dc95a1c46cb77c6371b79e187"
+  },
+  {
+    "file": "prediction_snapshot/models/losses/label_smoothing.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/models/losses/label_smoothing.py",
+    "sha256": "a30ac6ccdd9de3d196b0e405cce81fbe4e9b605553bd5ce73b148d9a6e3b1b12"
+  },
+  {
+    "file": "prediction_snapshot/models/losses/focal_loss.py",
+    "source": "/data/jyx/PGMNER_small_function_archive_20261108/source/models/losses/focal_loss.py",
+    "sha256": "92ca4399cfafbafabc3626a81baf0f43525e69e09d0526b4e5d58455c1170235"
+  },
+  {
+    "file": "figure_reproduction/build_cases.py",
+    "source": "/data/jyx/PGMNER_supplement_20261108/reproduce/build_cases.py",
+    "sha256": "90708af917504a1651aa1c23c94e2f1d6cbf8e31f8303f11a8b92c0012988ad7"
+  },
+  {
+    "file": "figure_reproduction/functional_audit.py",
+    "source": "/data/jyx/PGMNER_supplement_20261108/reproduce/functional_audit.py",
+    "sha256": "2117e79555e74ef3d8a4b6833b93d55adb985d61ae27906bf8e091d1c38a4d79"
+  },
+  {
+    "file": "figure_reproduction/build_mechanism_figures.py",
+    "source": "/data/jyx/PGMNER_supplement_20261108/reproduce/build_mechanism_figures.py",
+    "sha256": "cb2f874c1ebdf07c3a77a3194503e6c606871294251d8e5f0206ca3133b224ab"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_overnight_20261109/task.py",
+    "source": "/home/jyx/PGMNER_gmner_overnight_20261109/task.py",
+    "sha256": "bd83f9318f556821c95f6aa193e8da4d6987ffa949910cd3e10cab44a0db6395"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_overnight_20261109/PROTOCOL.txt",
+    "source": "/home/jyx/PGMNER_gmner_overnight_20261109/PROTOCOL.txt",
+    "sha256": "879ef18dcf5a91fcd22878764e4252fdeb757430e68d0745a624226d74914feb"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_improve_20261108/experiment.py",
+    "source": "/home/jyx/PGMNER_gmner_improve_20261108/experiment.py",
+    "sha256": "2f956adb046744f6eb9179d697896eafae5eb3862157de3c9d748f95e16ff243"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_improve_20261108/context_worker.py",
+    "source": "/home/jyx/PGMNER_gmner_improve_20261108/context_worker.py",
+    "sha256": "ca506f95a1b6d6c9c89af9216ccbee1fcbbcdffa29d5127beb1b1a79b3138ea7"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_improve_20261108/controller.py",
+    "source": "/home/jyx/PGMNER_gmner_improve_20261108/controller.py",
+    "sha256": "35136b3eb1f165418e3bd16afcd54be7701abd9f670a8bde4333d21eb95037ee"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_improve_20261108/evaluate.py",
+    "source": "/home/jyx/PGMNER_gmner_improve_20261108/evaluate.py",
+    "sha256": "0fce000f63db2d8f58b804e1906cfd183fc534d800aecda726712543adf6fed2"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_improve_20261108/PROTOCOL.txt",
+    "source": "/home/jyx/PGMNER_gmner_improve_20261108/PROTOCOL.txt",
+    "sha256": "72c6375eafe53506caf104e7bc22e6b72b27f38df7d1060280fc5c9eeff35701"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_three_rounds_20261109/worker.py",
+    "source": "/home/jyx/PGMNER_gmner_three_rounds_20261109/worker.py",
+    "sha256": "4ef2e694d1eb4bd780d535a6365148d165448e4f6b056d0fca89b5e7039c31a3"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_three_rounds_20261109/pipeline.py",
+    "source": "/home/jyx/PGMNER_gmner_three_rounds_20261109/pipeline.py",
+    "sha256": "883651d15e1b84cfc1b9748a39e18ae5862b827baa0e9268a995c8b2b26c88fb"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_three_rounds_20261109/controller.py",
+    "source": "/home/jyx/PGMNER_gmner_three_rounds_20261109/controller.py",
+    "sha256": "715e004be6c4f15b092c4c871908c9f97325edc2ecb13c5bdab9b28c40bc0cbd"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_three_rounds_20261109/PROTOCOL.txt",
+    "source": "/home/jyx/PGMNER_gmner_three_rounds_20261109/PROTOCOL.txt",
+    "sha256": "9e9eff4c32edb4a0b8fef8834a769afa11c596e6e70bf2222c836872325db672"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_refine_20261109/worker.py",
+    "source": "/home/jyx/PGMNER_gmner_refine_20261109/worker.py",
+    "sha256": "ad37a4c515bfbb51ccf244478f0f851fbaeff703d224c426d495fb3f21d80154"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_refine_20261109/train.py",
+    "source": "/home/jyx/PGMNER_gmner_refine_20261109/train.py",
+    "sha256": "72c0d78eaa22bb52e408f4d01d3224e1023e3621471dfdf76bd6682f64b4f5a0"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_refine_20261109/controller.py",
+    "source": "/home/jyx/PGMNER_gmner_refine_20261109/controller.py",
+    "sha256": "95deedfdbb21436cf9082cf65bfd60069b631b8e76514bd5437d290f8970d2bd"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_refine_20261109/train_before_tie_fix.py",
+    "source": "/home/jyx/PGMNER_gmner_refine_20261109/train_before_tie_fix.py",
+    "sha256": "90ea1821c5169764a9305e2b7e1b8913d135b2d5dd5a7105a9fd95bdd5c40540"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_refine_20261109/PROTOCOL.txt",
+    "source": "/home/jyx/PGMNER_gmner_refine_20261109/PROTOCOL.txt",
+    "sha256": "cd8fe4d08cbc9b323963f523d142d4521d7763e2dfcf1c94c3f1205cd980e99b"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_nonlinear_20261109/run.py",
+    "source": "/home/jyx/PGMNER_gmner_nonlinear_20261109/run.py",
+    "sha256": "196d7a4c511a351ae6c1ca7d660086d22c1a2d5a15489e5fa4d2023710f1cc06"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_nonlinear_20261109/PROTOCOL.txt",
+    "source": "/home/jyx/PGMNER_gmner_nonlinear_20261109/PROTOCOL.txt",
+    "sha256": "08e5a51571cd21cd401ce37cd638f930a17a623dd1a84c2bf13955105ac1a408"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/prepare.py",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/prepare.py",
+    "sha256": "efcfde3f32c0d6b1574ed5356823e6ada14a60a68d6473fd6ac7c086a3c1e3a1"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/eval.py",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/eval.py",
+    "sha256": "35750fa0e723e5073a21001e285e6259173504566ee3099c4a1bd9ae61c3a942"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/train.py",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/train.py",
+    "sha256": "19d03f61749a06dde046255dc36c39c92f2c300780eea312f2598bf390d3230e"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/controller.py",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/controller.py",
+    "sha256": "a6d0a1c9646d93aa359270b2e3bec0d57534f3122901ce5dd21d5271e60d88ec"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/PROTOCOL.txt",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/PROTOCOL.txt",
+    "sha256": "8d2aae8a13a5f4382e05e1be129371a85be89b4b7c490903f419a08feb59307c"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/src/e2egmner/__init__.py",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/src/e2egmner/__init__.py",
+    "sha256": "e5bee2ce14ea301cca638fc3e4b2ea5af45699047f3ca5365341904a08960865"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/src/e2egmner/engine/__init__.py",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/src/e2egmner/engine/__init__.py",
+    "sha256": "1d9a4020301e63729aa6febfff354f7428ef076080224fbe23f0ac1ee8c270b9"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/src/e2egmner/engine/evaluator.py",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/src/e2egmner/engine/evaluator.py",
+    "sha256": "59eed6335e40eb9d5b7875dbbd566fe815e10811d6fccc3157cb9da20fb5bdf4"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/src/e2egmner/cli/__init__.py",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/src/e2egmner/cli/__init__.py",
+    "sha256": "94d364e184712f084a3758595cb7d22abc5d186466f72ff911249005378b35a0"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/src/e2egmner/cli/train.py",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/src/e2egmner/cli/train.py",
+    "sha256": "af5336b5fabbd59a09cca5b8b74f67ce530ed63fd1ae55fd94d9412941e6cead"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/src/e2egmner/utils/__init__.py",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/src/e2egmner/utils/__init__.py",
+    "sha256": "aa11be01d506ebb5695586823b3ac14fd2da88bf6617a75ebba469f38dc0379a"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/src/e2egmner/utils/tracking.py",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/src/e2egmner/utils/tracking.py",
+    "sha256": "8e2beb50b502db184e0b8f9c5181c46493cf1631f29b01cb5a0560b4c0121054"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/src/e2egmner/utils/runtime.py",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/src/e2egmner/utils/runtime.py",
+    "sha256": "b50d96fc12aee7009cfaeaaecd77491db729ce8d7b51394a2d69fc204880752a"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/src/e2egmner/evaluation/__init__.py",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/src/e2egmner/evaluation/__init__.py",
+    "sha256": "95f6089a078e59ce6b437dd09f8f86a2e1fc494470a0cd513d4ec21905dc8836"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/src/e2egmner/evaluation/metrics.py",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/src/e2egmner/evaluation/metrics.py",
+    "sha256": "811cabba637a88b587055b356a1c69e79b81016d2034bd827ed64c3add3f4824"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/src/e2egmner/evaluation/geometry.py",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/src/e2egmner/evaluation/geometry.py",
+    "sha256": "9b5dec8937e277e61a1ae2a2179bab04f456ad8d768729373d75243f9c632f1c"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/src/e2egmner/evaluation/parsing.py",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/src/e2egmner/evaluation/parsing.py",
+    "sha256": "5bbfe2a39046f5826643c79a70259724dfc88ecb14607c9900ccde2c366c9bac"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/src/e2egmner/groundability/__init__.py",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/src/e2egmner/groundability/__init__.py",
+    "sha256": "69007c9efb6e5fe3389e618a8fb0ac320c77565ea8de3fef1b50add5845555d0"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/src/e2egmner/groundability/models.py",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/src/e2egmner/groundability/models.py",
+    "sha256": "44a5190de3a55d6f58ab9e08e73648ee191e44da3fe7a97c408cc0c9ed1891fe"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/src/e2egmner/groundability/metrics.py",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/src/e2egmner/groundability/metrics.py",
+    "sha256": "02cac4c3c7cabd2b84fc057c94dd9ca689ff705da271731f79a2766b1446d6aa"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_adapt_20261110/src/e2egmner/groundability/data.py",
+    "source": "/home/jyx/PGMNER_gmner_adapt_20261110/src/e2egmner/groundability/data.py",
+    "sha256": "689d27a7627ec99a5488cb26bcbe434a46fc4817f356213b16a7c9cd8071f842"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_teacher_20261109/experiment.py",
+    "source": "/home/jyx/PGMNER_gmner_teacher_20261109/experiment.py",
+    "sha256": "b02c04df84e02081fd2cabae1c83211d307dd38292b577187d3cd117dec782d4"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_teacher_20261109/review_worker.py",
+    "source": "/home/jyx/PGMNER_gmner_teacher_20261109/review_worker.py",
+    "sha256": "0f30a11f85d7d485c47d64aa1b8d05e77ea47b27df0caec0c4221d78508f2901"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_teacher_20261109/controller.py",
+    "source": "/home/jyx/PGMNER_gmner_teacher_20261109/controller.py",
+    "sha256": "d8b4d8d8915992b6f4d40dd3ecdc75574afca5778d3441740a39b507faa2f009"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_teacher_20261109/PROTOCOL.txt",
+    "source": "/home/jyx/PGMNER_gmner_teacher_20261109/PROTOCOL.txt",
+    "sha256": "0d3448768681b0970e404b9ce0d50f7fcbb19e8651ed6a8d59ea0ae237ab8813"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_recombine_20261111/task.py",
+    "source": "/home/jyx/PGMNER_gmner_recombine_20261111/task.py",
+    "sha256": "2d2c902d1079c84457ce353caba73c9462c0c14810bf94264ad7570a5b942866"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_recombine_20261111/PROTOCOL.txt",
+    "source": "/home/jyx/PGMNER_gmner_recombine_20261111/PROTOCOL.txt",
+    "sha256": "8ea25bae026521869eb6b21958a8a23046d21ae9c027afb67ba262ae79ac853c"
+  },
+  {
+    "file": "grounded/PGMNER_gmner_threshold_20261111/run.py",
+    "source": "/home/jyx/PGMNER_gmner_threshold_20261111/run.py",
+    "sha256": "448c39ae2f4ec1d38fa1fffafc7762ac2e970654360817a48fcd551b41f5c2f5"
+  }
+]
